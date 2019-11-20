@@ -1,0 +1,351 @@
+.body { font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue","HelvLightIBM",Arial,sans-serif;
+    background-color: rgb(45, 63, 73);
+}
+/* WebKit browsers */
+.body ::-webkit-input-placeholder { font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue","HelvLightIBM",Arial,sans-serif;
+}
+/* Mozilla Firefox 4 to 18 */
+.body :-moz-placeholder {  font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue","HelvLightIBM",Arial,sans-serif;
+
+}
+/* Mozilla Firefox 19+ */
+.body ::-moz-placeholder { font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue","HelvLightIBM",Arial,sans-serif;
+
+}
+/* Internet Explorer 10+ */
+.body :-ms-input-placeholder { font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue","HelvLightIBM",Arial,sans-serif;
+
+}
+
+#salir{
+    color:white;
+    text-align: right;
+}
+
+#salir:hover{
+    text-decoration: none;
+}
+section .paddingR{
+    padding-right: 0;
+}
+.container{
+    padding:20px;
+}
+#header{
+    display: inline-block;
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+header .logo-watson{
+    /*width: 50%;*/
+    display: inline-block;
+}
+
+/*.divImgWatson{*/
+    /*display: inline-block;*/
+    /*float: left;*/
+/*}*/
+nav{
+    display: inline-block;
+    float: right;
+}
+
+header .nav{
+    padding-right: 0px;
+}
+#contenedor{
+    display: block;
+    float: right;
+}
+#barra{
+    display: block;
+    height: 15px;
+}
+#btnWatson{
+    display: block;
+    /*width: 0%;*/
+}
+
+.boton{
+    font-family: "IBM Helvetica", "Helvetica Neue", HelveticaNeue, Helvetica, sans-serif;
+    border-radius:0px;
+    height: 30px;
+    font-weight: 600;
+    /*width: 20%;*/
+    font-size: 14px;
+    text-transform: uppercase;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    /*outline: 0;*/
+    background-color: rgb(90, 170, 250);
+    border: 0;
+    /*padding: 10px 15px;*/
+    /*padding: 18px 0px;*/
+    color: rgb(45, 63, 73);
+    cursor: pointer;
+}
+
+ .input{
+    font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue","HelvLightIBM",Arial,sans-serif;
+    font-size: 16px;
+    line-height: 16px;
+    /*width: 80%;*/
+    height: 30px;
+    border: none;
+    /*!* padding: 15px 0; *!*/
+    /*margin-bottom: 0;*/
+    /*text-indent: 16px;*/
+    background: #eeeeee;
+    color: black;
+    /*background-color: rgb(21, 41, 52);*/
+    /*color: rgb(255, 255, 255);*/
+    /*background-color: rgb(21, 41, 52);*/
+    /*color: rgb(255, 255, 255);*/
+
+}
+
+.input:focus {
+
+    /*background-color: white;*/
+    background-color: rgb(250, 255, 189);
+    color:#000000;
+}
+
+/*#containerFooter{*/
+    /*position: absolute;*/
+    /*bottom: 2em;*/
+/*}*/
+
+#containerFooter .row3{
+    padding-left: 0;
+}
+#divBuscar{
+    float: right;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+
+
+footer #linkFooter:hover{
+    text-decoration: none;
+    color:white;
+    font-size: 14px;
+}
+/*footer #linkFooter:link {*/
+    /*color: green;*/
+/*}*/
+
+article p{
+    font-family: "IBM Helvetica", "Helvetica Neue", HelveticaNeue, Helvetica, sans-serif;
+    text-align: justify-all;
+    word-break: break-all;
+
+}
+
+
+/*article p h6{*/
+    /*text-align: justify;*/
+    /*word-break: break-all;*/
+    /*letter-spacing: 0.02rem;*/
+    /*line-height: 1.42857143;*/
+/*}*/
+#hotelMixhu,#hCotejos{
+    text-transform: uppercase;
+}
+
+#actaConstHidden,#verificacionHidden{
+    visibility: hidden;
+}
+
+#actaConst,#poder, #identificaciones, #verificacion{
+    text-align: center;
+    /*text-transform: uppercase;*/
+}
+
+footer #descripcion{
+    text-align: right;
+    color: orange;
+}
+
+footer #descripcion:hover{
+    text-decoration: none;
+    color:white;
+    font-size: 14px;
+}
+
+section #article1,section #article1{
+    display: inline-block;
+}
+
+
+#coontainerCotejos{
+    padding-top: 0px;
+}
+
+.row2{
+    margin-top: -2em;
+}
+
+
+
+#divImgChat{
+    padding-right: 0px;
+}
+#divBarra12{
+    padding-right: 0px;
+}
+@media only screen and (max-width: 1600px) {
+
+}
+
+@media only screen and (max-width: 1400px) {
+    #btnWatson{
+        padding-bottom: 0px;
+    }
+    #divBuscar{
+        margin-bottom: 8px;
+    }
+    /*#btnWatson{*/
+        /*width: 14%;*/
+    /*}*/
+
+
+}
+
+@media only screen and (max-width: 1200px) {
+    /*.boton{*/
+        /*font-size: 10px;*/
+        /*font-family: "IBM Helvetica", "Helvetica Neue", HelveticaNeue, Helvetica, sans-serif;*/
+        /*font-weight: 600;*/
+
+    /*}*/
+    #btnChat{
+        width: 14%;
+        float: right;
+    }
+}
+
+/*Medidas bootstrap*/
+@media screen and (max-width: 992px) {
+
+    /*section h1 {*/
+        /*font-size:30px;*/
+    /*}*/
+
+    /*section h1 {*/
+        /*font-size:30px;*/
+    /*}*/
+
+    /*.boton{*/
+        /*font-size: 1px;*/
+    /*}*/
+    #btnChat{
+        width: 13%;
+        float: right;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+
+    /*section h1 {*/
+        /*font-size: 28px;*/
+    /*}*/
+    /*section h6 {*/
+        /*font-size: 10px;*/
+    /*}*/
+
+}
+/*End Medidas bootstrap*/
+
+
+@media only screen and (max-width: 600px) {
+
+    /*section h1 {*/
+        /*font-size: 23px;*/
+    /*}*/
+    /*section h6 {*/
+        /*font-size: 7px;*/
+    /*}*/
+
+    form .boton{
+        font-size: 11px;
+        padding: 0px;
+        font-weight: 600;
+    }
+    /*header #nav{*/
+
+        /*padding-right: 0px;*/
+    /*}*/
+    form .input, form .boton{
+        height: 20px;
+    }
+    #btnWatson{
+        padding-bottom: 0px;
+    }
+    #divBuscar{
+        margin-bottom: 4px;
+    }
+    #salir h3{
+        font-size: 18px;
+    }
+    #btnChat{
+        width: 19%;
+        float: right;
+    }
+
+}
+@media only screen and (max-width: 400px) {
+    /*section h1 {*/
+        /*font-size: 20px;*/
+    /*}*/
+    /*section h6 {*/
+        /*font-size: 10px;*/
+    /*}*/
+    header .logo-watson{
+        width: 30%;
+    }
+
+    #hotelMixhu{
+        font-size: 27px;
+    }
+
+    a #logout{
+        font-size: 13px;
+    }
+
+    #actaConst, #poder, #identificaciones, #verificacion{
+        font-size: 22px;
+    }
+    form .boton{
+        font-size: 8px;
+        padding: 0px;
+        font-weight: 600;
+    }
+    header #nav{
+        padding: 3px;
+    }
+
+    form .input, form .boton{
+        height: 20px;
+    }
+    #btnWatson{
+        padding-bottom: 0px;
+    }
+    #divBuscar{
+        margin-bottom: 4px;
+    }
+    #divBarra{
+        padding-right: 0px;
+    }
+    #btnChat{
+        width: 24%;
+        float: right;
+    }
+}
+
+@media only screen and (max-width: 300) {
+
+}

@@ -1,0 +1,1551 @@
+9F365-80XHAP CIRCUITO UNIVERS. ANESTESIA;Equipo Médico || Quirófano
+ABDOMEN SIMPLE 1 PROYECCION;Laboratorio || Radiología
+ABDOMEN SIMPLE 2 PROYECCIONES;Laboratorio || Patología
+AC ANTIFOSFOLIPIDOS IgG IgM;Laboratorio || Análisis clínicos
+ACCU-CHEK PERFORMA TIRA;Equipo Médico || Electrónica médica
+ACICLOVIR FCO 250MG;Medicamentos || Antivirales, Excluyendo Productos Anti-VIH
+ACIDO ACETIL SALICILICO;Medicamentos || Inhibidores de la Agregación Plaquetaria
+ACIDO URICO;Laboratorio || Análisis clínicos
+ACIDO VALPROICO;Medicamentos || Antiepilépticos
+ACTRON CAP 400MG;Medicamentos || Antirreumáticos no Esteroideos
+ADALAT CAP 10MG;Medicamentos || Calcioantagonistas Solos
+ADALAT OROS TAB LIB PROL 30MG;Medicamentos || Calcioantagonistas Solos
+ADAP Y ESPAC.C/BOQ/MASC. AG-AS7000-US;Laboratorio || Ultrasonidos
+ADAPTADOR P/ACCESO EN CATHETHER IV 36490;Cuadro Básico || Médicas y Quirúrgicas
+ADMINISTRACION DE MEDICAMENTOS POR VIA I;Hospitalización || General
+ADULT OXI SENSOR MAX A 429966;Equipo Médico || Mecánica y fluidos
+AFRIN AD SPRAY FCO 10MG/20 ML;Medicamentos || Preparaciones Nasales Tópicas
+AFRIN LUB SPRAY FCO 50MG/100ML 20ML;Medicamentos || Preparaciones Nasales Tópicas
+AFUNGIL 100 MG CAP;Medicamentos || Agentes para Infecciones Fúngicas Sistemicas
+AGUA DE IRRIGACION 1000 ML 4000258;Material de Curación || Materiales de Uso Diverso
+AGUA INYECTABLE 10 ML. AMP;Medicamentos || Otras Soluciones Inyectables Infusiones Aditivas
+AGUA INYECTABLE AMP 10ML;Medicamentos || Soluciones Estándar
+AGUA OXIGENADA FCO 120ML;Material de Curación || Materiales de Uso Diverso
+AGUJA 18 GA X 7 CMS AD18T71W;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA BD ULTRA FINE 31GX8MM;Material de Curación || Médicas y Quirúrgicas
+AGUJA CHIVA DE 22 GA. 20 CM. 090010-ET;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA CURVA C/EXT GRIPPER 20X25 4084;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA DE ACCESO A02A;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA DE PUNCION 18GAX7CM HQ1510;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA ESPINAL DESECHABLE N.27;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA ESTERIL DESECHABLE 18X38;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA ESTERIL DESECHABLE 20 X 32 2565;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA ESTERIL DESECHABLE 20 X 38 2566;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA ESTERIL DESECHABLE 20X32 2565;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA ESTERIL DESECHABLE 21 X 32 2568;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA ESTERIL DESECHABLE 21X32 2568;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA ESTERIL DESECHABLE 22 X 32 2570;Material de Curación || Médicas y Quirúrgicas
+AGUJA ESTERIL DESECHABLE 22X25;Material de Curación || Médicas y Quirúrgicas
+AGUJA ESTERIL DESECHABLE 22X32 2570;Material de Curación || Médicas y Quirúrgicas
+AGUJA ESTERIL DESECHABLE 23 X 25 2571;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA ESTERIL DESECHABLE 25 X 16 2572;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA P/ RAQUEA 25GX3 1/2 4725;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA P/ RAQUEA 26GX3 1/2 4729;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA P/BIOPSIA 11GA X 4;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA P/BLOQUEO 27 GA 4 11/16 P/WHITACRE;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA PARA ELITE PASS;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA PARA PORT SURECAN 19GA X 20MM 3/4;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA PARA PORT SURECAN 20GA X 20MM 3/4;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA RAQUIA QUINCKE 22 405181;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA SPINAL WHITACRE 25G/3 1/2 01-40513;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA STIMUPLEX A-100 CAL-21;Cuadro Básico || Médicas y Quirúrgicas
+AGUJA STIMUPLEX A-50 MM 4586;Cuadro Básico || Médicas y Quirúrgicas
+ALAMBRE GUIA 18 PULGADAS;Cuadro Básico || Médicas y Quirúrgicas
+ALAMBRE KIRSCHNER 0.045 186-00269;Instrumental || Catálogo
+ALBUMINA EN ORINA PERIODICA;Laboratorio || Análisis clínicos
+ALCOHOL DESNATURALIZADO 110 ML 1910110;Laboratorio || Perfiles
+ALDACTONE A TAB 25MG;Medicamentos || Diuréticos
+ALDACTONE TAB 100MG;Medicamentos || Diuréticos
+ALEVIAN-DUO 100/300 MG CAP;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+ALFAFETOPROTEINA;Laboratorio || Perfiles
+ALIN AMP 8MG/2ML;Medicamentos || Corticosteroides Sistémicos, Puros
+ALLEGRA 120 MG TAB;Medicamentos || Antihistamínicos Sistémicos
+ALMOHADA RADIAL RR811;Hospitalización || General
+ALNEX AMP 1G/2ML;Medicamentos || No Narcóticos y Antipiréticos
+AMAL 2 MG/ML;Medicamentos || Antieméticos
+AMAL 4 MG/8 ML;Medicamentos || Antieméticos
+AMARYL XM 4MG/850MG TAB;Medicamentos || Biguanidas Antidiabéticas
+AMBU P/RESUCITADOR NEONATAL;Laboratorio || Perfiles
+AMIKACINA AMP.500 MG.2ML;Medicamentos || Aminoglucósidos
+AMIKIN FCO AMP 500 MG/2 ML;Medicamentos || Aminoglucósidos
+AMILASA;Laboratorio || Perfiles
+AMILASA Y LIPASA;Laboratorio || Perfiles
+AMIODARONA 150 MG. 3 ML AMP;Medicamentos || Antiarrítmicos
+AMK AMIKACINA AMP 100MG/2ML;Medicamentos || Aminoglucósidos
+AMK AMP 500MG/2ML;Medicamentos || Aminoglucósidos
+AMLODIPINO TAB 5MG;Medicamentos || Calcioantagonistas Solos
+AMONIO;Laboratorio || Análisis clínicos
+AMOXICLAV BID 875 MG/125 MGTBS.;Medicamentos || Penicilinas de Amplio Espectro
+ANAPSIQUE TAB 25MG;Medicamentos || Antidepresivos y Estabilizadores del Ánimo
+ANARA TAB 5 MG;Medicamentos || Laxantes
+ANCLA HEALICOIL SA PK 4.5MM W/2 72203378;Instrumental || Catálogo
+ANCLA TWIN FIX TI 5.0MM C/AGUJAS 7210708;Cuadro Básico || Médicas y Quirúrgicas
+ANCLAS DE MITECK CAT.212866;Material de Curación || Médicas y Quirúrgicas
+ANESKET SOL. INY. 500 MG/10 ML;Medicamentos || Soluciones Estándar
+ANGIO TC PULMONAR IMA;Laboratorio || Análisis clínicos
+ANGIOTROFIN TAB 30MG;Medicamentos || Calcioantagonistas Solos
+ANTADONA AMP 0.5MG/5ML;Medicamentos || Anestésicos Locales
+ANTI-CARDIOLIPINAS IgG IgM;Laboratorio || Análisis clínicos
+ANTI-NUCLEARES IF;Laboratorio || Estudios Especiales
+ANTI-VIH;Laboratorio || Estudios Especiales
+ANTI-VIH (WESTERN BLOT);Laboratorio || Estudios Especiales
+ANTIGENO CARCINOEMBRIONARIO;Laboratorio || Perfiles
+ANTIGENO VIRUS SINCICIAL RESPIRATORIO;Laboratorio || Estudios Especiales
+ANTIVON AMP 4MG/2ML;Medicamentos || Antieméticos
+ANTIVON AMP 8MG/4ML;Medicamentos || Antieméticos
+APOSITO ALLEVYN ADHESIVE 12.5X12.5;Material de Curación || Central de Equipos y Esterilización
+APOSITO DE ALGODON ESTERIL 20 CM;Material de Curación || Central de Equipos y Esterilización
+aposito OPSITE POST-OP DE 6.5 X 5 CM;Material de Curación || Central de Equipos y Esterilización
+APOSITO TRANSPTEGADERM IV 7.0X8.5 1633MX;Material de Curación || Central de Equipos y Esterilización
+APOSITOALLEVYN HEEL 105 X 135 CAT 660076;Cuadro Básico || Médicas y Quirúrgicas
+APOYO BIOMEDICO EXTRAORODINARIO C/CARGO;Material de Curación || Materiales de Uso Diverso
+ARANESP 500MCG/1ML JER PRELL;Medicamentos || Productos con Eritropoyetina
+ARANESP JGA PRELL 60 MCG/0.3 ML;Medicamentos || Productos con Eritropoyetina
+ARAVA 20 MG TAB;Medicamentos || Agentes Inmunosupresores Selectivos
+ARGENTAFIL 1% CREMA TUB 30G;Medicamentos || Antibióticos y Sulfonamidas de Uso Tópico
+ARTAXOL 100 MG INDOMETACINA SUPOSITORIOS;Medicamentos || Antirreumáticos no Esteroideos
+ARTROSCOPIA SENCILLA CRIOTERAPIA J&J;Equipo Médico || Quirófano
+ARTROSCOPIO (USO);Equipo Médico || Quirófano
+ASISTENCIA TECNICA EN QUIROFANO APR;Hospitalización || General
+ASISTENCIA TECNICA EN QUIROFANO CIR;Hospitalización || General
+ASISTENCIA TERAPISTA RESPIRATORIO PROC D;Equipo Médico || Medicina física y rehabilitación
+ASOFLON 0.4 MG CAP;Medicamentos || Productos para la Hiperplásia Prostática Benigna
+ASPIRINA PROTEC TAB 100MG;Medicamentos || Inhibidores de la Agregación Plaquetaria
+ATENCION EN URGENCIAS (SENTIDA);Hospitalización || General
+ATENCION EN URGENCIAS B;Hospitalización || General
+ATENCION EN URGENCIAS C;Hospitalización || General
+ATENCION EN URGENCIAS D;Hospitalización || General
+ATENCION ESPECIALIZADA AREAS CRITICAS;Hospitalización || General
+ATENCION ESPECIALIZADA EN TERAPIA INTENS;Cuadro Básico || Médicas y Quirúrgicas
+ATENCION ESPECIALIZADA HOSPITALIZACION;Hospitalización || General
+ATENCION ESPECIALIZADA PEDIATRICA;Hospitalización || General
+ATENCION ESPECIALIZADA PEDIATRICA EN EDO;Hospitalización || General
+ATENCION ESPECIALIZADO EN RECUPERACION;Hospitalización || General
+ATENCION MEDICA ESPECIALIZADA EN CUN FIS;Hospitalización || General
+ATENCION MEDICA ESPECIALIZADA EN RECUPER;Hospitalización || General
+ATIVAN TAB 1MG;Medicamentos || Tranquilizantes
+ATORVASTATINA TAB 20MG;Medicamentos || Agentes para la Reducción de las Concentraciones de Colesterol y Triglicéridos
+ATROPISA AMP 1MG/ML;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+ATROPISA AMP. 1 MG/1 ML;Medicamentos || Antiarrítmicos
+ATROVENT 500 MCG SOL. 2 ML;Medicamentos || Anticolinérgicos Sencillos y sus Combinaciones con Agonistas-B2
+ATROVENT SOL FCO P/NEB 250MCG/ML 20ML;Medicamentos || Soluciones Estándar
+ATROVENT SUSP AER FCO 10ML 200 DOSIS;Medicamentos || Anticolinérgicos Sencillos y sus Combinaciones con Agonistas-B2
+AVAPENA AMP 20MG/2ML;Medicamentos || Antihistamínicos Sistémicos
+AVAPENA TAB 25MG;Medicamentos || Antihistamínicos Sistémicos
+AVELOX FCO AMP 400MG/250ML;Medicamentos || Fluoroquinolonas
+AVELOX TAB 400MG;Medicamentos || Fluoroquinolonas
+AVIANT JBE 50 MG / 120 ML;Medicamentos || Antihistamínicos Sistémicos
+BACTRIM F TAB 800MG/160MG;Medicamentos || Trimetroprim y Sustancias Similares
+BACTRIM SUSP 200MG/40MG/5MG 120ML;Medicamentos || Trimetroprim y Sustancias Similares
+BACTRIM TAB 80/400 MG;Medicamentos || Trimetroprim y Sustancias Similares
+BACTROBAN UNG TUB 2% 15G;Medicamentos || Antibióticos y Sulfonamidas de Uso Tópico
+BAPEX 300MG CAP. CAJA C/15;Medicamentos || Antiepilépticos
+BARRA CURVA 5.5 X 70 MMSEXTANT MAST;Instrumental || Catálogo
+BATA CON MANGAS DESECH PNM 004;Hospitalización || General
+BATA DES P/PACIENTE 900001;Hospitalización || General
+BATA PEDIATRICA DESECHABLE A31A001;Hospitalización || General
+BATA QUIRURGICA GRANDE 9515;Equipo Médico || Quirófano
+BD INSYTE 18GAX116IN (13 MMX30 MM(1-1/4;Cuadro Básico || Médicas y Quirúrgicas
+BD INSYTE 20GAX116IN (11 MMX30 MM(1-1/4;Cuadro Básico || Médicas y Quirúrgicas
+BD INSYTE 24GAX075IN (07 MMX19 MM(3/4 ));Cuadro Básico || Médicas y Quirúrgicas
+BD INSYTE AUTOG 16GAX177IN 17 MMX45 MM;Cuadro Básico || Médicas y Quirúrgicas
+BD INSYTE AUTOGUARD 22GAX1IN(09 MMX25 MM;Cuadro Básico || Médicas y Quirúrgicas
+BENADRYL AMP 50MG/ML;Medicamentos || Antihistamínicos Sistémicos
+BENEDORM TAB 5 MG;Medicamentos || Otras Hormonas y Preparados con efectos Similares
+BENSITRAK 2MG/ML 5ML AMP 4009951;Medicamentos || Relajantes Musculares de Acción Central
+BENTYL CAP 10MG;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+BILIRRUBINAS;Laboratorio || Perfiles
+BIOMETRIA HEMATICA COMPLETA;Laboratorio || Análisis clínicos
+BIOMICS CAP 400 MG;Medicamentos || Cefalosporinas
+BIOMICS SUSP. 100 MG. FCO. 100 ML.;Medicamentos || Cefalosporinas
+BIOPSIA RENAL (RINON) ( CON TINCIONES) H;Equipo Médico || Quirófano
+BOLSA COLOSTOMIA DRENABLE COMPAC 3250;Equipo Médico || Mecánica y fluidos
+BOLSA RECOL ORINA 2000ML.153504;Cuadro Básico || Médicas y Quirúrgicas
+BOMBA DE INFUSION 1 CANAL (USO);Equipo Médico || Mecánica y fluidos
+BOMBA DE INFUSION 3 CANALES (USO);Equipo Médico || Mecánica y fluidos
+BOQUILLA ULTIMA BLOCK CON LIGA CAT.GIS-4;Material de Curación || Médicas y Quirúrgicas
+BOTAS DESECHABLES A31D081;Equipo Médico || Quirófano
+BOTAS P/ CIRUGIA ARTROSCOPICA K-20;Equipo Médico || Quirófano
+BOTAS P/ARTROS.GRANDE 10503-L;Equipo Médico || Quirófano
+BRIDION FCO AMP 100MG/ML 2ML;Medicamentos || Relajantes Musculares de Acción Periférica
+BRONCHO-VAXOM INF GDO SOB 3.5 MG;Medicamentos || Agentes Inmunoestimulantes Excepto los Interferones
+BRONCHO-VAXON GDO SOB 10 INF;Medicamentos || Agentes Inmunoestimulantes Excepto los Interferones
+BROSPINA 0.3 MG/ML;Medicamentos || Narcóticos
+BUFIGEN AMP 10MG/ML;Medicamentos || Narcóticos
+BULTO DE ROPA DE HOMBRO DYNSJ0841;Hospitalización || General
+BULTO DE ROPA DE RODILLA DYNSJ0810;Hospitalización || General
+BUSCAPINA AMP 20MG/ML;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+BUSCAPINA CPTA TAB 10MG/250MG;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+BUSCAPINA CPTO. AMP 20/250 MG 5 ML;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+BUSCAPINA TAB 10MG;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+BUTILHIOCINA AMP. 20MG. FGI;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+BUTILHIOSCINA 10 MG. GRAG.;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+BUVACAINA AMP 50 MG / 10 ML;Medicamentos || Anestésicos Locales
+BUVACAINA PESADA AMP 15 MG/3 ML;Medicamentos || Anestésicos Locales
+BUVACAINA SOL. 0.5% FCO 30 ML;Medicamentos || Soluciones Estándar
+CABESTRILLO MEDIANO CB-1;Cuadro Básico || Médicas y Quirúrgicas
+CAJA DINAMIC ALIF 5?L26 H10 DYN-IA0510-S;Equipo Médico || Quirófano
+CAJA INTERSOMu00c1TICA LUMBAR PEEK 32X12;Equipo Médico || Quirófano
+CAJA MC+ CERVICAL ABIERTA PEEK 12X14X6 M;Instrumental || Catálogo
+CALCIO;Laboratorio || Análisis clínicos
+CAMARA DE HUMIDIFICACION AUTOLLENADO 180;Equipo Médico || Quirófano
+CANASTILLA OPTIFLEX 1.3F/120 M0063903010;Equipo Médico || Quirófano
+CANESTEN CREMA TUB 1% 30G;Medicamentos || Antimicóticos Ginecológicos
+CANESTEN V CREMA TUB 2% 20G;Medicamentos || Antimicóticos Ginecológicos
+CANULA GUEDEL 2 7 CM 330007;Cuadro Básico || Médicas y Quirúrgicas
+CANULA GUEDEL 3 8 CM 1 NARANJA 330008;Cuadro Básico || Médicas y Quirúrgicas
+CANULA GUEDEL 3 8 CM 1NARANJA 330008;Cuadro Básico || Médicas y Quirúrgicas
+CANULA GUEDEL 4 9 CM 2 VERDE 330009;Cuadro Básico || Médicas y Quirúrgicas
+CANULA GUEDEL 5 10 CM 3 BLANCA 330010;Cuadro Básico || Médicas y Quirúrgicas
+CANULA NASAL 15 MTS;Cuadro Básico || Médicas y Quirúrgicas
+CANULA NASAL 2 MTS;Cuadro Básico || Médicas y Quirúrgicas
+CANULA NASAL 2.10MTS 1325 1300130;Cuadro Básico || Médicas y Quirúrgicas
+CANULA NASAL ACOJIN. PEDIATRICA 002602;Cuadro Básico || Médicas y Quirúrgicas
+CANULA NASAL ANATOMICA CURVO CRUSH (HOSP;Cuadro Básico || Médicas y Quirúrgicas
+CANULA NASAL AUTOM. NO CRUSH HUDSON 1820;Cuadro Básico || Médicas y Quirúrgicas
+CANULA NASAL P/OXIGENO K-29 4570;Equipo Médico || Mecánica y fluidos
+CANULA NASAL P/OXIGENO PED V728;Equipo Médico || Quirófano
+CANULA TRANSLUCIDA 7MM X7 AR-6550;Cuadro Básico || Médicas y Quirúrgicas
+CANULA YANKAHUER C/VALV SUCC 40102;Cuadro Básico || Médicas y Quirúrgicas
+CANULA YANKAHUER C/VALV. SUCC. 40102;Cuadro Básico || Médicas y Quirúrgicas
+CANULA YANKAHUER S/VALV SUCC 40100;Cuadro Básico || Médicas y Quirúrgicas
+CANULA YANKAHUER S/VALV. SUCC. 40100;Cuadro Básico || Médicas y Quirúrgicas
+CAPIN BH AMP 20MG/ML;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+CARDISPAN AMP 1G/5ML;Medicamentos || Otros Nutrientes
+CARGO DE OXIGENO DE 3 A 6 HORAS;Equipo Médico || Quirófano
+CARGO USO DE CAMA EXTRA (DIA);Hospitalización || General
+CARGO USO DE CUBICULO TERAPIA INTENSIVA;Cuadro Básico || Médicas y Quirúrgicas
+CARGO USO DE HAB ESTANDAR (DIA);Hospitalización || General
+CARGO USO DE HAB ESTANDAR TERAPIA INTERM;Cuadro Básico || Médicas y Quirúrgicas
+CARGO USO DE HAB TERAPIA INTERMEDIA SENC;Cuadro Básico || Médicas y Quirúrgicas
+CARGO USO DE HAB UNIDAD DE CORTA ESTANCI;Hospitalización || General
+CARNOTPRIM AMP 10MG/2ML;Medicamentos || Gastroprocinéticos
+CAT INSYTE AUTOGUARD BC 18GAX30MM 381034;Cuadro Básico || Médicas y Quirúrgicas
+CAT INSYTE AUTOGUARD BC 18GAX30MM 381044;Cuadro Básico || Médicas y Quirúrgicas
+CAT INSYTE AUTOGUARD BC 20GAX30MM 381034;Cuadro Básico || Médicas y Quirúrgicas
+CAT INSYTE AUTOGUARD BC 20GAX30MM 381044;Cuadro Básico || Médicas y Quirúrgicas
+CAT INSYTE AUTOGUARD BC 22GAX25MM 381023;Cuadro Básico || Médicas y Quirúrgicas
+CAT NEXIVA DOBLE 22GA 1.00IN.383532;Cuadro Básico || Médicas y Quirúrgicas
+CAT.VENOSO CENTRAL 2 LUMEN 5 FR PR05052;Cuadro Básico || Médicas y Quirúrgicas
+CATETER 56 CROSSER;Material de Curación || Médicas y Quirúrgicas
+CATETER ARMADA 5X250;Material de Curación || Médicas y Quirúrgicas
+CATETER ARMADA 6X12;Material de Curación || Médicas y Quirúrgicas
+CATETER ARTERIAL 115.09;Material de Curación || Médicas y Quirúrgicas
+CATETER DESECH PERFORANTES SQE;Material de Curación || Médicas y Quirúrgicas
+CATETER DIAGNOSTICO;Material de Curación || Médicas y Quirúrgicas
+CATETER DOBLE J OPT. 6FRX26CM 01-787626;Material de Curación || Médicas y Quirúrgicas
+CATETER DX HIDROFILICO RF*WH14112M;Material de Curación || Médicas y Quirúrgicas
+CATETER DX HIDROFILICO RF*XW35110M;Material de Curación || Médicas y Quirúrgicas
+CATETER DX HIDROFILICO RF*ZW34110M;Material de Curación || Médicas y Quirúrgicas
+CATETER DX PIGTAIL 5FR SP0061M;Material de Curación || Médicas y Quirúrgicas
+CATETER FOGARTY 80CM3FR C/JERIN 12A0803F;Material de Curación || Médicas y Quirúrgicas
+CATETER FOGARTY 80CM4FR C/JERIN 12A0804F;Material de Curación || Médicas y Quirúrgicas
+CATETER INTRAVENOSO 14 381267;Cuadro Básico || Médicas y Quirúrgicas
+CATETER INTRAVENOSO 16 381257;Material de Curación || Médicas y Quirúrgicas
+CATETER INTRAVENOSO 18 4054 LARGO;Cuadro Básico || Médicas y Quirúrgicas
+CATETER INTRAVENOSO 18 4055 INSYTE;Material de Curación || Médicas y Quirúrgicas
+CATETER INTRAVENOSO 20 4056 INSYTE;Cuadro Básico || Médicas y Quirúrgicas
+CATETER INTRAVENOSO 22 4050 INSYTE;Cuadro Básico || Médicas y Quirúrgicas
+CATETER INTRAVENOSO INSYTE 381212 24GA;Cuadro Básico || Médicas y Quirúrgicas
+CATETER SOPORT .035X150CM SEKER SK15035M;Material de Curación || Médicas y Quirúrgicas
+CATETER URETERAL P/ABIERTA 5FR 020015;Cuadro Básico || Médicas y Quirúrgicas
+CATETER URETERAL P/ABIERTA 6FR 020116;Material de Curación || Médicas y Quirúrgicas
+CATETER USHER 130;Material de Curación || Médicas y Quirúrgicas
+CATETER VEN CENT 3 L 7 F 20 CM CS15703E;Cuadro Básico || Médicas y Quirúrgicas
+CATETER VENOSO CENTRAL 2LUMEN 4FR 8 CM C;Material de Curación || Médicas y Quirúrgicas
+CATGUT CROMICO 1 CT-1 813T;Material de Curación || Quirúrgicas
+CATGUT CROMICO 1-0 CT-1 812T;Material de Curación || Médicas y Quirúrgicas
+CATGUT CROMICO 1-0 G128T;Material de Curación || Quirúrgicas
+CATGUT CROMICO 2-0 SH G123T;Material de Curación || Quirúrgicas
+CATGUT CROMICO 3-0 SH G122T;Material de Curación || Quirúrgicas
+CATGUT CROMICO 4-0 M-1 744T;Material de Curación || Quirúrgicas
+CDH LEGACY 5.5 CAN MAS 6.5 X 45;Instrumental || Catálogo
+CDH LEGACY 5.5 CAN MAS 6.5X35 7576535;Instrumental || Catálogo
+CEDAX CAP 400MG;Medicamentos || Cefalosporinas
+CEFALEXINA CAP 500MG;Medicamentos || Cefalosporinas
+CEFALOTINA FCO AMP 1G/5ML;Medicamentos || Cefalosporinas
+CEFAXONA FCO AMP 1G IV;Medicamentos || Cefalosporinas
+CEFOTAXIMA SOL.INY 1G.4ML.IV;Medicamentos || Cefalosporinas
+CEFTRIAXONA FAM 500 IV;Medicamentos || Cefalosporinas
+CEFTRIAXONA FCO. 1MG IM;Medicamentos || Cefalosporinas
+CEFTRIAXONA I. V. AMP. 1 G.;Medicamentos || Cefalosporinas
+CEFTRIAXONA IV. 1G. FAM;Medicamentos || Cefalosporinas
+CEFUROXIMA 750MG/10ML. AMP;Medicamentos || Cefalosporinas
+CEFUROXIMA TAB. 500 MG.;Medicamentos || Cefalosporinas
+CELEBREX CAP 200MG;Medicamentos || Antirreumáticos no Esteroideos
+CELESTAMINE NS TAB 5MG/0.25MG;Medicamentos || Combinaciones de Corticosteroides Sistémicos
+CELLCEPT CPR. 500mg;Medicamentos || Agentes Inmunosupresores Selectivos
+CEPILLO C/GLUCONATO DE CLORHEX 371073;Material de Curación || Médicas y Quirúrgicas
+CEPILLO CIRUJANO C/ JABON 4456A;Equipo Médico || Quirófano
+CERA P/ HUESO W31G;Instrumental || Básico
+CHLORAPREP 3 ML CAT 260400;Cuadro Básico || Médicas y Quirúrgicas
+CIPROBAC FCO 400MG/200 ML;Medicamentos || Otros Antibacterianos Beta-Lactámicos, Excluyendo Penicilinas y Cefalosporinas
+CIPROBAC FCO 400MG/200ML;Medicamentos || Fluoroquinolonas
+CIPROBAC TAB 500MG;Medicamentos || Anti-Infecciosos de Uso Oftalmológico
+CIPROFLOX CAP 500MG;Medicamentos || Anti-Infecciosos de Uso Oftalmológico
+CIPROFLOX FCO AMP 400MG/200ML;Medicamentos || Anti-Infecciosos de Uso Oftalmológico
+CIPROFLOXACINO 400/200ML FAM;Medicamentos || Fluoroquinolonas
+CIPROFLOXACINO FCO AMP 200 MG/100 ML;Medicamentos || Anti-Infecciosos de Uso Oftalmológico
+CIPROFLOXACINO SOL.INY IV 200 MG 100 ML;Medicamentos || Soluciones Estándar
+CIPROFLOXACINO TAB. 500 MG;Medicamentos || Fluoroquinolonas
+CIPROXINA FCO AMP 400MG/200ML;Medicamentos || Anti-Infecciosos de Uso Oftalmológico
+CIRCUITO ANESTESIA CIRC ADULT 8403B-84;Equipo Médico || Quirófano
+CIRCUITO DE ANESTESIA AFNX2904 SIGNS;Equipo Médico || Quirófano
+CIRCUITO UNIVER F CATFGL-9F366-136XHAP;Equipo Médico || Quirófano
+CIRCUITO UNIVERSAL P/ANESTESIA 9F365-80X;Equipo Médico || Quirófano
+CIRCUITO UNIVERSAL P/ANESTESIA F-60;Equipo Médico || Quirófano
+CIRUGIA 1 HR O FRACCION;Equipo Médico || Quirófano
+CIRUGIA 2 HRS;Equipo Médico || Quirófano
+CIRUGIA MAYOR 1 HR O FRACCION CIR;Equipo Médico || Quirófano
+CIRUGIA MAYOR 1 HR O FRACCION UCE;Equipo Médico || Quirófano
+CIRUGIA MAYOR 2 HRS CIR;Equipo Médico || Quirófano
+CIRUGIA MAYOR 2 HRS UCE;Equipo Médico || Quirófano
+CIRUGIA MAYOR 3 HRS CIR;Equipo Médico || Quirófano
+CIRUGIA MAYOR 3 HRS UCE;Equipo Médico || Quirófano
+CIRUGIA MAYOR 4 HRS;Equipo Médico || Quirófano
+CIRUGIA MAYOR 5 HRS;Equipo Médico || Quirófano
+CIRUGIA MAYOR C/ 1/2 HR ADICIONAL;Equipo Médico || Quirófano
+CIRUGIA MAYOR C/30 MIN ADICIONAL GOB;Equipo Médico || Quirófano
+CIRUGIA MAYOR C/30 MIN ADICIONAL UCE;Equipo Médico || Quirófano
+CIRUGIA NEURO 1 HR;Equipo Médico || Quirófano
+CIRUGIA ORTOPEDIA 1 HR;Equipo Médico || Quirófano
+CISTOSCOPIA (CAMISALENTEFIBRA Y FUENTE D;Equipo Médico || Quirófano
+CJA INTERSOMOTICA LUMBAR PEEK 26X12;Equipo Médico || Quirófano
+CLARITROMICINA 500MG TAB;Medicamentos || Macrólidos y Similares
+CLARITYNE TAB 10MG;Medicamentos || Antihistamínicos Sistémicos
+CLAVO GUIA 0.045 X 6;Cuadro Básico || Médicas y Quirúrgicas
+CLEXANE JGA 20MG/0.2ML;Medicamentos || Anticoagulantes Inyectables
+CLEXANE JGA 40MG/0.4ML;Medicamentos || Anticoagulantes Inyectables
+CLEXANE JGA 60MG/0.6ML;Medicamentos || Anticoagulantes Inyectables
+CLEXANE JGA 80MG/0.8ML;Medicamentos || Anticoagulantes Inyectables
+CLINDAMICINA 600MG/4ML AMP;Medicamentos || Formulaciones Tópicas contra el Acné
+CLINDAMICINA CAP 300MG;Medicamentos || Formulaciones Tópicas contra el Acné
+CLINDAMICINA SOL.INY.300 MG 2 ML FGI;Medicamentos || Formulaciones Tópicas contra el Acné
+CLONIXINATO DE LISINA AMP 100MG/2ML;Medicamentos || No Narcóticos y Antipiréticos
+CLOPIDOGREL TAB 75 MG;Medicamentos || Inhibidores de la Agregación Plaquetaria
+CLORO EN ORINA AL AZAR;Laboratorio || Análisis clínicos
+CLORO-TRIMETON AMP 10MG/ML;Medicamentos || Preparaciones contra el Resfriado Sin Agentes Antiinfecciosos
+CLORO-TRIMETON TAB 4MG;Medicamentos || Preparaciones contra el Resfriado Sin Agentes Antiinfecciosos
+CLORURO DE POTASIO 1.49G/10MLC/50 GI;Medicamentos || Productos con Potasio
+CLORURO DE SODIO 0.9% 250ML PISA;Medicamentos || Soluciones Estándar
+CLORURO DE SODIO 100 ML 1547;Medicamentos || Soluciones Estándar
+CLORURO DE SODIO 1000 ML 13;Medicamentos || Soluciones Estándar
+CLORURO DE SODIO 100ML 1547;Medicamentos || Soluciones Estándar
+CLORURO DE SODIO 250 ML PISA;Medicamentos || Soluciones Estándar
+CLORURO DE SODIO 3000 ML;Medicamentos || Soluciones Estándar
+CLORURO DE SODIO 500 12;Medicamentos || Soluciones Estándar
+CLORURO DE SODIO AL 0.9% 1000 ML ABB1324;Medicamentos || Soluciones Estándar
+CLORURO DE SODIO INY. 50 ML;Medicamentos || Soluciones Estándar
+CLORURO DE SODIO P/IRRIGACION 1000 ML 29;Medicamentos || Soluciones Estándar
+CO-PLAVIX TAB 75MG/100MG;Medicamentos || Inhibidores de la Agregación Plaquetaria
+COLCHON DE TERAPIA PULSATIL;Cuadro Básico || Médicas y Quirúrgicas
+COLCHON TERMICO QUIRURGICO;Hospitalización || General
+COLCHON TERMICO SBH;Hospitalización || General
+COLESTEROL;Laboratorio || Análisis clínicos
+COLMESDANT FCO AMP 150MG/2ML;Medicamentos || Otros Antibióticos
+COLOCACION DE CATETER DE FLUROSCOPIA;Material de Curación || Médicas y Quirúrgicas
+COLUMNA LUMBAR (2 PROYECCIONES);Laboratorio || Radiología
+COMBIVENT AMP 0.5MG/2.5MG 2.5ML;Medicamentos || Anticolinérgicos Sencillos y sus Combinaciones con Agonistas-B2
+COMBIVENT RESPIMAT;Medicamentos || Anticolinérgicos Sencillos y sus Combinaciones con Agonistas-B2
+COMBIVIR 150/300 MG TAB;Medicamentos || Antivirales para VIH
+COMODO DESECHABLE ESTANDAR CS-1;Hospitalización || General
+COMODO DESECHABLE ORTOPEDICO 4665;Hospitalización || General
+CONECTOR 5 EN 1 DELGADO 7351;Cuadro Básico || Médicas y Quirúrgicas
+CONECTOR CLAVE C/BAYONETA 2924;Cuadro Básico || Médicas y Quirúrgicas
+CONECTOR DOBLE MACHO MX493;Cuadro Básico || Médicas y Quirúrgicas
+CONECTOR EN T CON VALVULA 1743 HUDSON;Cuadro Básico || Médicas y Quirúrgicas
+CONECTOR METALICO P/NEBULIZADOR CAT. 400;Cuadro Básico || Médicas y Quirúrgicas
+CONECTOR NEUMATICO EXTERIOR 750171130204;Cuadro Básico || Médicas y Quirúrgicas
+CONECTOR NIPLE CAT. 1840MX;Cuadro Básico || Médicas y Quirúrgicas
+CONECTOR P/ CAM HUMIDIFICACION 89200;Equipo Médico || Quirófano
+CONECTOR P/FRIBROSCOPIO 625191;Cuadro Básico || Médicas y Quirúrgicas
+CONECTOR TIPO SIMS GRUESO 7350;Cuadro Básico || Médicas y Quirúrgicas
+CONECTOR TUBO DE ALIMENTACION 9786;Cuadro Básico || Médicas y Quirúrgicas
+CONECTOR UNIVERSAL;Cuadro Básico || Médicas y Quirúrgicas
+CONECTOR UNIVERSAL GL;Cuadro Básico || Médicas y Quirúrgicas
+CONO P/OTOSCOPIO 2.75MM WA52432-U BOX;Cuadro Básico || Médicas y Quirúrgicas
+CONTUMAX PVO SOB 17G;Medicamentos || Laxantes
+COPROCULTIVO;Laboratorio || Análisis clínicos
+COPROLOGICO;Laboratorio || Análisis clínicos
+COPROPARASITOSCOPICO 1 MUESTRA;Laboratorio || Análisis clínicos
+CORDARONE TAB 200MG;Medicamentos || Antiarrítmicos
+CORPOTASIN CL TAB EFERV 10MEQ;Medicamentos || Productos con Potasio
+COTONOIDES 2.5 X 7;Material de Curación || Médicas y Quirúrgicas
+COTONOIDES CODMAN 1X3' 801408;Material de Curación || Médicas y Quirúrgicas
+CREATINFOSFOQUINASA (CPK);Laboratorio || Análisis clínicos
+CREATINFOSFOQUINASA FRACCION MB (CPK-MB);Laboratorio || Análisis clínicos
+CREATININA;Laboratorio || Análisis clínicos
+CREATININA EN ORINA AL AZAR;Laboratorio || Análisis clínicos
+CUARTO PRIVADO CON BANO Y TE;Hospitalización || General
+CUARTO PRIVADO CON BANO Y TELEFONO;Hospitalización || General
+CUBREBOCA DE ALTA FILTRACION 48100-G;Cuadro Básico || Médicas y Quirúrgicas
+CUBREBOCA DE ALTA FILTRACION C/OREJERAS;Cuadro Básico || Médicas y Quirúrgicas
+CUCHILLA COOLCUT EX 4.0mm AR-8400EX;Instrumental || Catálogo
+CUERDA GUIA COR 035FCJ3MM 150CM 502521;Cuadro Básico || Médicas y Quirúrgicas
+CUERDA GUIA HIDROFILICA014 X160 CM;Cuadro Básico || Médicas y Quirúrgicas
+CUERDA GUIA J 035X150 J3FCS150-035;Cuadro Básico || Médicas y Quirúrgicas
+CULTIVO DE PUNTA DE CATETER;Cuadro Básico || Médicas y Quirúrgicas
+CULTIVO DE VARIOS;Laboratorio || Análisis clínicos
+CULTIVO FARINGEO;Laboratorio || Análisis clínicos
+CULTIVO PARA HONGOS;Laboratorio || Perfiles
+CYMBALTA CAP 30MG;Medicamentos || Antidepresivos y Estabilizadores del Ánimo
+DAGLA TAB 50MG;Medicamentos || Gastroprocinéticos
+DAKTARIN CREMA TUBO 2/100G 30G.;Medicamentos || Antimicóticos de Uso Dermatológico
+DALACIN C AMP 300MG/2ML;Medicamentos || Formulaciones Tópicas contra el Acné
+DECOREX AMP 8MG/ 2ML;Medicamentos || Corticosteroides Sistémicos, Puros
+DENVAR CAP 400MG;Medicamentos || Cefalosporinas
+DENVAR SUSP 100MG/5ML FCO 100ML;Medicamentos || Cefalosporinas
+DEPAKENE JBE FCO 250MG/5ML 120ML;Medicamentos || Antiepilépticos
+DEPO-MEDROL FCO AMP 40MG/ML;Medicamentos || Corticosteroides Sistémicos, Puros
+DEPOSITO EN GARANTIA DE CONTROL REMOTO;Hospitalización || General
+DEPURACION DE CREATININA;Laboratorio || Análisis clínicos
+DERECHO DE SALA Y FLUOROSCOPIA 1/2 HORA;Hospitalización || General
+DERMALON 2-0 1742-51 SCE-4;Material de Curación || Quirúrgicas
+DERMALON 3-0 1742-41 SCE-4;Material de Curación || Médicas y Quirúrgicas
+DERMALON 3-0 1744-41 CE-6;Material de Curación || Médicas y Quirúrgicas
+DERMALON 4-0 1742-31 SCE-4;Material de Curación || Médicas y Quirúrgicas
+DERMALON 4-0 1756-31 CE-4;Material de Curación || Médicas y Quirúrgicas
+DERMALON 5-0 1741-21 CE2 8886174121;Material de Curación || Quirúrgicas
+DERMALON 6.0 1741-11 CE-2;Material de Curación || Quirúrgicas
+DESHIDROGENASA LACTICA;Laboratorio || Análisis clínicos
+DETECTOR FETAL (DOPTONE) (USO);Equipo Médico || Electrónica médica
+DETRUSITOL SR. 4MG. TAB;Medicamentos || Productos Para la Incontinencia Urinaria
+DEXAMETASONA 2 ML SOL INY GI;Medicamentos || Corticosteroides Sistémicos, Puros
+DEXAMETAZONA FAM 8 MG 2ML;Medicamentos || Corticosteroides Sistémicos, Puros
+DEXIVANT 60 MG.;Medicamentos || Antiulcerosos
+DEXTROSA AL 10% DE 500 ML;Medicamentos || Soluciones Estándar
+DEXTROSA AL 5% DE 100 ML 1545;Medicamentos || Soluciones Estándar
+DEXTROSA AL 5% DE 1000 ML 86;Medicamentos || Soluciones Estándar
+DEXTROSA AL 5% DE 250 ML 84;Medicamentos || Soluciones Estándar
+DEXTROSA AL 5% DE 500 ML 85;Medicamentos || Soluciones Estándar
+DICLOFENACO AMP.75MG 3ML IM;Medicamentos || Antirreumáticos Tópicos
+DICLOPISA AMP 75MG/3ML;Medicamentos || Antiinflamatorios No Esteroideos
+DICLOXACILINA 500MG CAP FGI;Medicamentos || Penicilinas de Espectro Medio y Reducido
+DICLOXACILINA 500MG SOLUCION INY;Medicamentos || Soluciones Estándar
+DICYNONE AMP 250MG/2ML;Medicamentos || Hemostáticos Sistémicos
+DIFENIDOL 25MG TAB;Medicamentos || Antieméticos
+DIFENIDOL AMP.40MG/2ML GI;Medicamentos || Antieméticos
+DIFERENCIA HAB ESTANDAR A JUNIOR SUITE;Hospitalización || General
+DIFLUCAN CAP 100MG;Medicamentos || Agentes para Infecciones Fúngicas Sistemicas
+DIFLUCAN CAP 150 MG;Medicamentos || Agentes para Infecciones Fúngicas Sistemicas
+DIFLUCAN FCO AMP 2MG/ML 50ML;Medicamentos || Agentes para Infecciones Fúngicas Sistemicas
+DIMERO 'D' (DEGRADACION DE FIBRINA);Laboratorio || Análisis clínicos
+DIPIRONA 2.5 MG AMP 5 ML;Medicamentos || No Narcóticos y Antipiréticos
+DIPRIVAN AMP 200MG/20 ML;Medicamentos || Anestésicos Generales
+DIPRIVAN AMP. 200 MG/20 ML.;Medicamentos || Anestésicos Generales
+DIPROSPAN HYPACK JGA 5MG/2MG 1ML;Medicamentos || Corticosteroides Sistémicos, Puros
+DISCO DVD +R 4.5;Hospitalización || General
+DOBUTAMINA SOL. INY.250 MG. 20ML;Medicamentos || Soluciones Estándar
+DOLAC AMP 30MG/ML;Medicamentos || Antiinflamatorios no Esteroideos de Uso Oftálmico
+DOLAC SOL. INY. AMP. 30 MG/1 ML;Medicamentos || Soluciones Estándar
+DOLO-NEUROBION FORTE JGA PRELLENADA;Medicamentos || Antirreumáticos no Esteroideos
+DOPPLER PERIFERICO DOS EXTREMIDADES (ART;Equipo Médico || Imagenología 
+DORIXINA RELAX COMP 125/5MG;Medicamentos || Relajantes Musculares de Acción Central
+DORIXINA SOL.INY. AMP 100 MG / 2 ML;Medicamentos || Antirreumáticos no Esteroideos
+DORMICUM 5MG/5ML;Medicamentos - Hipnóticos||Sedantes
+DORMICUM SOL.INY. AMP 15 MG / 3 ML;Medicamentos || Hipnóticos-Sedantes
+DORMICUM SOL.INY. AMP 5 MG / 5 ML;Medicamentos || Hipnóticos-Sedantes
+DORMICUM SOL.INY. AMP 50 MG / 10 ML;Medicamentos || Hipnóticos-Sedantes
+DOSIER TAB 5 MG;Medicamentos || Gastroprocinéticos
+DOSTEIN SUSP FCO 175MG/5ML 90ML;Medicamentos || Expectorantes
+DREN BLAKE SIL 19FR CON TROCAR 2232;Equipo Médico || Mecánica y fluidos
+DRENOVAC 1/4' D02;Equipo Médico || Quirófano
+DURA PREP SOL. 15 ML 8610;Material de Curación || Médicas y Quirúrgicas
+DURA PREP SOL. QUIRURGICA 26 ML 8630;Material de Curación || Médicas y Quirúrgicas
+DURA PREP SOL. QUIRURGICA 6 ML 8635;Medicamentos || Antisépticos Quirúigicos
+DVD GRABABLE 4.7 GB VELOCIDAD 2.4X;Hospitalización || General
+DYNASTAT FCO AMP 40MG;Medicamentos || Antirreumáticos no Esteroideos
+ECOCARDIOGRAMA BIDIMENSIONAL;Laboratorio || Estudios Especiales
+EFEXOR XR 37.5 MG;Medicamentos || Antidepresivos y Estabilizadores del Ánimo
+EFEXOR XR CAP 75 MG;Medicamentos || Antidepresivos y Estabilizadores del Ánimo
+ELECTROCARDIOGRAMA (USO);Equipo Médico || Electrónica médica
+ELECTROCARDIOGRAMA DE URGENCIAS;Equipo Médico || Electrónica médica
+ELECTRODO ADULTO P/MONITOREO 2239;Cuadro Básico || Médicas y Quirúrgicas
+ELECTRODO AGUJA 6.0 IMA/ENT ES40;Cuadro Básico || Médicas y Quirúrgicas
+ELECTRODO AGUJA STAND. 2.84IMA/ENT ES38;Cuadro Básico || Médicas y Quirúrgicas
+ELECTRODO BIPOLAR 24FR 300 WA22306D;Equipo Médico || Quirófano
+ELECTRODO DES DE AGUJA 1.2M 019-476400;Cuadro Básico || Médicas y Quirúrgicas
+ELECTRODO DES DE AGUJA 2.0M 019-475700;Cuadro Básico || Médicas y Quirúrgicas
+ELECTRODO DESECHABLE NEONATAL 3M 2258-3;Laboratorio || Perfiles
+ELECTRODO P/REPOSO RED DOT TM P/EKG2330;Cuadro Básico || Médicas y Quirúrgicas
+ELECTRODO PEDIATRICO P/MONITOREO 2248;Cuadro Básico || Medicina Preventiva
+ELECTRODO REPOSO P/PRUEBA ECG. 30807732;Equipo Médico || Electrónica médica
+ELECTRODOS DESECHABLES DE AGUJA 1.2 IV;Cuadro Básico || Médicas y Quirúrgicas
+ELECTRODOS DESECHABLES DE AGUJA 2.0 IV;Cuadro Básico || Médicas y Quirúrgicas
+ELECTROENCEFALOGRAMA A PISOS (HOSPITAL);Hospitalización || General
+ELECTROENCEFALOGRAMA ESPECIAL;Laboratorio || Estudios Especiales
+ELECTROLITOS (NA K CL CO2);Laboratorio || Análisis clínicos
+ELEQUINE TAB 500MG;Medicamentos || Fluoroquinolonas
+ELEQUINE TAB 750MG;Medicamentos || Fluoroquinolonas
+ELICUIS TAB 2.5 MG;Medicamentos || Anticoagulantes no Inyectables
+ENDOLOOP LIG. VICRYL END EJ10C;Material de Curación || Médicas y Quirúrgicas
+ENDOLOOP VICRYL EJ 10C;Material de Curación || Médicas y Quirúrgicas
+ENEMA FOSFATO;Laboratorio || Perfiles
+ENOXAPARINA SODICA JER 40MG/0.4ML;Medicamentos || Anticoagulantes Inyectables
+ENOXAPARINA SODICA JER 60MG/0.6ML;Medicamentos || Anticoagulantes Inyectables
+ENTEROGERMINA SUSP 4 BILLONES AMP 5ML;Medicamentos || Microorganismos Usados Como Antidiarreicos
+ENTEROGERMINA SUSP AMP 5 ML;Medicamentos || Microorganismos Usados Como Antidiarreicos
+ENZIMAS CARDIACAS;Laboratorio || Análisis clínicos
+EPAMIN SP AMP 250MG/5ML;Medicamentos || Antiepilépticos
+EPICLODINA AMP 150MCG/ML;Medicamentos || Anestésicos Locales
+EQ. P/VENOP AD C/CLORHERIDINA VCH001-23;Cuadro Básico || Médicas y Quirúrgicas
+EQ. P/VENOPUNCION AD REGULAR VEN-001-14;Cuadro Básico || Médicas y Quirúrgicas
+EQ.VIDEO ALTA DEFINICION C/URETE. FLEXIB;Hospitalización || General
+EQUALTHA FCO AMP 100MG;Medicamentos || Agentes para Infecciones Fúngicas Sistemicas
+EQUIPO CIRUGIA FINA DESECHABLE 2024;Equipo Médico || Quirófano
+EQUIPO DE ENDOSCOPIA;Equipo Médico || Quirófano
+EQUIPO DIALISIS CONTINUA FRESENIUS;Equipo Médico || Mecánica y fluidos
+EQUIPO P/CURACION CAT C/CHORAPREP;Cuadro Básico || Médicas y Quirúrgicas
+EQUIPO P/ENEMA EVACUANTE 2562;Cuadro Básico || Médicas y Quirúrgicas
+EQUIPO P/INST. DE CATETER ESTERIL 2025;Cuadro Básico || Médicas y Quirúrgicas
+EQUIPO P/MONITOREO DE LC EXTERNO STDMLC;Cuadro Básico || Medicina Preventiva
+EQUIPO P/VENOPUNCION AD C/CLORHERIDINA V;Cuadro Básico || Médicas y Quirúrgicas
+EQUIPO P/VENOPUNCION AD REGULAR VEN-001-;Cuadro Básico || Médicas y Quirúrgicas
+EQUIPO P/VENOPUNCION PEDIATRICA VEP001-4;Cuadro Básico || Médicas y Quirúrgicas
+EQUIPO PARA CATETERISMO VESICAL 2510;Material de Curación || Médicas y Quirúrgicas
+EQUIPO PARA LIBERACION DE TUNEL DEL CARP;Equipo Médico || Quirófano
+EQUIPO ULTRASONIDO SONOSITE;Equipo Médico || Quirófano
+EQUIPO ULTRASONIDO VASCULAR (USO);Equipo Médico || Electrónica médica
+ERGOTRATE AMP 0.2MG/ML;Medicamentos || Otros Productos Ginecológicos
+ESMERON FCO AMP 50 MG/5 ML;Medicamentos || Relajantes Musculares de Acción Periférica
+ESOFAGOGRAMA (DEGLUCION);Laboratorio || Radiología
+ESP D/GASA 10X10CM 12C T28X24 E C/10PZAS;Cuadro Básico || Médicas y Quirúrgicas
+ESP GASA ESTERIL 28X24 10X10 0132100;Cuadro Básico || Médicas y Quirúrgicas
+ESPACIL CPTO AMP 100MG/20MG/4ML;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+ESPONJA BLANCA C/LOGOTIPO;Cuadro Básico || Médicas y Quirúrgicas
+ESPONJA DE PLATA CHICA M6275098;Cuadro Básico || Médicas y Quirúrgicas
+ESPONJA GASA EST T28X24 10X10;Cuadro Básico || Médicas y Quirúrgicas
+ESPONJA P/ BANO;Cuadro Básico || Médicas y Quirúrgicas
+ESTUDIO HISTOPATOLOGICO TIPO A;Laboratorio || Patología
+ESTUDIO HISTOPATOLOGICO TIPO B;Laboratorio || Patología
+ESTUDIO HISTOPATOLOGICO TIPO C;Laboratorio || Patología
+ESTUDIO HISTOPATOLOGICO TIPO D;Laboratorio || Patología
+ESTUDIO HISTOPATOLOGICO TIPO E;Laboratorio || Patología
+ESTUDIO HISTOPATOLOGICO TIPO G;Laboratorio || Patología
+ETHIBOND 2 V-37 MX69G;Material de Curación || Quirúrgicas
+ETHIBOND 2-0 SH B523T;Material de Curación || Quirúrgicas
+ETHILON 5/0 NEG 45 CM P3 P698T;Material de Curación || Médicas y Quirúrgicas
+EUTIROX 150 MCG TAB;Medicamentos || Preparaciones con Hormonas Tiroideas
+EUTIROX 50 MCG TAB;Medicamentos || Preparaciones con Hormonas Tiroideas
+EVOCS 111 750MG SOL INY 150ML;Medicamentos || Soluciones Estándar
+EXAMEN GENERAL DE ORINA;Laboratorio || Análisis clínicos
+EXEL CAP 15MG;Medicamentos || Antirreumáticos no Esteroideos
+EXFORGE CPR 5MG/160MG;Medicamentos || Antagonistas de la Angiotensina II Combinados
+EXFORGE HCT COMP 10/320/25MG;Medicamentos || Antagonistas de la Angiotensina II Combinados
+EXFORGE HCT CPR 5MG/160MG/12.5MG;Medicamentos || Antagonistas de la Angiotensina II Combinados
+EXTENCION DE OXIGENO DE 4 MT 7007;Equipo Médico || Quirófano
+EXTENSION 1.0 ML 36'MICRO-VOL. RAD. CAT;Cuadro Básico || Médicas y Quirúrgicas
+EXTRACTOR DE CALCULOS 3 fr X 115;Instrumental || Básico
+FALOT FCO AMP 1G;Medicamentos || Cefalosporinas
+FEBRAX SUP 100MG/200MG;Medicamentos || No Narcóticos y Antipiréticos
+FENIDID SOLUCION INY.0.5/MG;Medicamentos || Soluciones Estándar
+FENIDID SOLUCION INY.0.5/MG/10ml;Medicamentos || Soluciones Estándar
+FENODID 0.5MG;Medicamentos || Anestésicos Generales
+FENODID AMP 0.5MG/10ML;Medicamentos || Narcóticos
+FENODID INYECTABLE 5MG/10ML;Medicamentos || Anestésicos Generales
+FENODID SOL INY AMP. 0.5MG/10ML;Medicamentos || Soluciones Estándar
+FENODID SOL. INY 0.5MG/10ML;Medicamentos || Soluciones Estándar
+FENODID SOL. INY. AMP 0.5 MG/10 ML;Medicamentos || Anestésicos Generales
+FENOTIPO A OTROS SISTEMAS;Laboratorio || Análisis clínicos
+FERRITINA;Laboratorio || Análisis clínicos
+FERULA P/RODILLA C/ARCO DE MOV. GRANDE F;Equipo Médico || Mecánica y fluidos
+FIBERLOOP C/AGUJA R #2 AR-7234;Cuadro Básico || Médicas y Quirúrgicas
+FIBRINOGENO CLAUSS;Laboratorio || Análisis clínicos
+FIJADOR DE SONDA FOLEY 36600-M;Cuadro Básico || Médicas y Quirúrgicas
+FIRAC AMP 100MG/2ML;Medicamentos || No Narcóticos y Antipiréticos
+FIRAC PLUS AMP 100MG/7.5MG;Medicamentos || No Narcóticos y Antipiréticos
+FIRAC PLUS TAB 125MG/10MG;Medicamentos || Combinaciones de Analgésicos con Antiespasmódicos
+FISOPRED SOL FCO 100MG/100ML;Medicamentos || Corticosteroides Sistémicos, Puros
+FLAGYL CPR 500MG;Medicamentos || Anaerobicidas
+FLAGYL SOL INY 500MG/100ML;Medicamentos || Anaerobicidas
+FLEBOTEK 0-100 CON CLAVE COD.4001968;Cuadro Básico || Médicas y Quirúrgicas
+FLEBOTEK 0-100 CON CLAVE COD: 4001968;Cuadro Básico || Médicas y Quirúrgicas
+FLEBOTEK INFUSOMAT 0-150;Cuadro Básico || Médicas y Quirúrgicas
+FLEBOTEK INFUSOMAT 0-150 CON CLAVE;Cuadro Básico || Médicas y Quirúrgicas
+FLEBOTEK INFUSOMAT C/CLAVE 3920;Cuadro Básico || Médicas y Quirúrgicas
+FLEBOTEK INFUSOMAT NORMAL 3910;Cuadro Básico || Médicas y Quirúrgicas
+FLEBOTEK INFUSOMAT NORMAL OPACO;Cuadro Básico || Médicas y Quirúrgicas
+FLEBOTEK INFUSOMAT SPACE ESTANDAR 400564;Cuadro Básico || Médicas y Quirúrgicas
+FLEBOTEK INFUSOMAT SPACE OPACO 4005466;Cuadro Básico || Médicas y Quirúrgicas
+FLEBOTEK INFUSOMAT SPACE TRANSFUCION 400;Cuadro Básico || Médicas y Quirúrgicas
+FLEBOTEK MEDIFIX;Cuadro Básico || Médicas y Quirúrgicas
+FLEBOTEK QUIR NB CON CLAVE;Cuadro Básico || Médicas y Quirúrgicas
+FLEBOTEK QUIRURGICO CON CLAVE COD.400196;Cuadro Básico || Médicas y Quirúrgicas
+FLEET ADULTO 133 ML;Medicamentos || Laxantes
+FLEXBUMIN 20% 50ML ALBUMINA HUMANA;Medicamentos || Soluciones Protéicas
+FLIXOTIDE NEBULES AMP 0.5MG/2ML;Medicamentos || Corticoides
+FLIXOTIDE NEBULES AMP P/INH 2MG/2ML;Medicamentos || Corticoides
+FLONORM TAB 200MG;Medicamentos || Antidiarreicos con Efecto Antiinfeccioso a Nivel Intestinal
+FLORATIL PED PVO SOB 200MG;Medicamentos || Microorganismos Usados Como Antidiarreicos
+FLUCONAZOL CAP 100 MG;Medicamentos || Agentes para Infecciones Fúngicas Sistemicas
+FLUCONAZOL CAP. 100MG;Medicamentos || Agentes para Infecciones Fúngicas Sistemicas
+FLUCOXAN FCO 2MG/ML 50 ML;Medicamentos || Agentes para Infecciones Fúngicas Sistemicas
+FLUONING 500MG SOL INY FLEXO 100ML;Medicamentos || Fluoroquinolonas
+FLUONING FCO 750MG/150 ML;Medicamentos || Fluoroquinolonas
+FOSFOCIL CAP 500MG;Medicamentos || Otros Antibióticos
+FOSFOCIL FCO AMP 1G/10ML IV;Medicamentos || Otros Antibióticos
+FOSFORO;Laboratorio || Análisis clínicos
+FP-20 AMP 20MEQ/10ML;Medicamentos || Otros suplementos Minerales
+FRACCION COMPLEMENTO C3;Laboratorio || Análisis clínicos
+FRACCION COMPLEMENTO C4;Laboratorio || Análisis clínicos
+FRESA DIAMANTADA NEURO GRANO GRUESO;Instrumental || Catálogo
+FRESA MIDAS REX LEGEND 14X3 14MH30;Instrumental || Catálogo
+FRESA NEURO CORTA 1.8;Instrumental || Básico
+FRESOFOL AMP 200 MG/20 ML;Medicamentos || Anestésicos Generales
+FUNDA P/LAPAROSCOPIOLTE MOD. 201;Equipo Médico || Quirófano
+FUNDA P/TOMA DE TEMPERAT. 05031;Cuadro Básico || Médicas y Quirúrgicas
+FUNDAS PARA MICROSCOPIO CARL ZEIZZ;Equipo Médico || Quirófano
+FUNDAS ULTRASONIDO Y TRANSDUCTOR SQE;Equipo Médico || Quirófano
+FUROSEMIDA AMP 20MG/2ML;Medicamentos || Diuréticos
+FUROSEMIDA TAB 40MG;Medicamentos || Diuréticos
+GABAPENTINA 300 MG CAP;Medicamentos || Antiepilépticos
+GAMAGLUTAMIL TRANSPEPTIDASA (GGT);Laboratorio || Análisis clínicos
+GAS ANESTESICO 1 HORA CIR;Medicamentos || Anestésicos Generales
+GAS ANESTESICO 1 HORA UCE;Medicamentos || Anestésicos Generales
+GAS ANESTESICO 1/2 HORA CIR;Medicamentos || Anestésicos Generales
+GAS ANESTESICO 1/2 HORA UCE;Medicamentos || Anestésicos Generales
+GASA 75 X 5 CM C/12 CAPAS RT TEJ 20X12;Cuadro Básico || Médicas y Quirúrgicas
+GASA C/R EST. 10X10 28X24 C/10 0133100;Cuadro Básico || Médicas y Quirúrgicas
+GASA SIMPLE 7.5 X 5 ESTE. 20X12 C/5;Cuadro Básico || Médicas y Quirúrgicas
+GASES EN SANGRE APR;Laboratorio || Análisis clínicos
+GASOMETRIA COXIMETRIA Y ELECTROLITOS;Laboratorio || Análisis clínicos
+GEL CUTANEO PROTECTOR EN TOALLA 7917;Material de Curación || Cirugía General
+GEL ESTERIL;Cuadro Básico || Médicas y Quirúrgicas
+GELFOAM;Equipo Médico || Quirófano
+GESLUTIN PERLAS 200MG;Medicamentos || Progestágenos, Excluyendo G3A, G3F
+GLUCOMETRO (USO);Equipo Médico || Electrónica médica
+GLUCOSA;Laboratorio || Análisis clínicos
+GONADOTROFINA FRACCION BETA;Laboratorio || Análisis clínicos
+GORRO PACIENTE B16D411;Material de Curación || Médicas y Quirúrgicas
+GRATEN AMP 10MG/10ML;Medicamentos || Narcóticos
+GRATEN AMP 2.5MG/2.5ML;Medicamentos || Narcóticos
+GRUPO ABO Rh;Laboratorio || Análisis clínicos
+GUANTE CIRUGIA ESTERIL 6 1/2 2D7265;Material de Curación || Médicas y Quirúrgicas
+GUANTE CIRUGIA ESTERIL 7 1/2 2D7275;Material de Curación || Médicas y Quirúrgicas
+GUANTE CIRUGIA ESTERIL 7 2D7270;Equipo Médico || Quirófano
+GUANTE ESTERIL 6 1/2 2D7265;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE ESTERIL 6.2D7260;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE ESTERIL 7 1/2 2D7275;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE ESTERIL 7 2D7270;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE ESTERIL 8 1/2 2D7285;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE ESTERIL 8 2D7280;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE ESTERIL CHICO;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE ESTERIL DE NITRILO # 8;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE ESTERIL GRANDE 0435200;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE ESTERIL MEDIANO 0435100;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE EXAM. MDS 1975076 GDE. VINIL;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE EXAM. MDS195074 CHICA VINIL;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE EXAM. MDS195075 MED. VINIL;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE LIBRE DE LATEX 8;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE NO ESTERIL VINILO GRANDE 0490030;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE NO ESTERIL VINILO MEDIANO 0490020;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE ORTOPEDICO 7;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE ORTOPEDICO 7 1/2;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE ORTOPEDICO 8;Cuadro Básico || Médicas y Quirúrgicas
+GUANTE ORTOPEDICO 8.5;Cuadro Básico || Médicas y Quirúrgicas
+GUANTES ESTERIL DE NITRILO #7 1/2;Cuadro Básico || Médicas y Quirúrgicas
+GUANTES PLOMADOS No. 75 M0067051031;Cuadro Básico || Médicas y Quirúrgicas
+GUIA ASAHI FIELDER FC300CM AGP140301;Cuadro Básico || Médicas y Quirúrgicas
+GUIA COMMAND;Cuadro Básico || Médicas y Quirúrgicas
+GUIA CORRECAM RECT RPC038145-0 038'X145;Cuadro Básico || Médicas y Quirúrgicas
+GUIA CORRECAM.035'X145 RECTA RPC 0351450;Cuadro Básico || Médicas y Quirúrgicas
+GUIA DE LAMBRE DE .035 DE DIAM. 635413;Cuadro Básico || Médicas y Quirúrgicas
+GUIA HIDRO ACERO .035X145CM 01-145FS35;Cuadro Básico || Médicas y Quirúrgicas
+GUIA HIDRO NIT .035X150 HEMA-01;Cuadro Básico || Médicas y Quirúrgicas
+GUIA HIDROFILICA RF*GA35263M;Cuadro Básico || Médicas y Quirúrgicas
+GUIA INTER 0.014X300 AG142300 ASAHI;Cuadro Básico || Médicas y Quirúrgicas
+GUIA JAGWIRE 0.025X450CM M00556561;Cuadro Básico || Médicas y Quirúrgicas
+GUIA P/SONDA ENDOTRAQUEAL 14FR 85865;Cuadro Básico || Médicas y Quirúrgicas
+GUIA PERCUTANEA;Cuadro Básico || Médicas y Quirúrgicas
+GUIA STIFF SHAFT .035X260 PA35263M;Cuadro Básico || Médicas y Quirúrgicas
+GUIDEWIRE BLUNT 8670001;Instrumental || Catálogo
+GYNOMUNAL GEL VAGINAL TUBO 50ML.;Medicamentos || Otros Productos Ginecológicos
+HALCION TAB 0.125 MG;Medicamentos || Hipnóticos-Sedantes
+HALDOL SOL FCO GTS 2MG/ML 15ML;Medicamentos || Antipsicóticos
+HEMODIALISIS URGENTE EN TERAPIA INT;Cuadro Básico || Médicas y Quirúrgicas
+HEMOGLOBINA GLUCOSADA;Laboratorio || Análisis clínicos
+HEMOSIN-K FCO AMP 10MG/10MG 2ML;Medicamentos || Antagonistas (Antidotos de los Anticoagulantes)
+HENEXAL AMP 2 ML;Medicamentos || Diuréticos
+HEPA-MERZ AMP 5G/10ML;Medicamentos || Suplementos Proteínicos
+HEPATITIS A B C;Laboratorio || Análisis clínicos
+HERO TORNILLO EXPANSIu00d3N 12MM;Instrumental || Básico
+HIDRASEC CAP 100MG;Medicamentos || Todos los Demás Antidiarreicos
+HIDROCORTISONA FAM 500MG.;Medicamentos || Corticosteroides Tópicos Solos
+HIDROCORTISONA FCO AMP 100MG/2ML;Medicamentos || Corticosteroides Sistémicos, Puros
+HIDROCORTIZONA AMP. 100MG;Medicamentos || Corticosteroides Sistémicos, Puros
+HIERRO SERICO Y CAPACIDAD DE FIJACION;Laboratorio || Análisis clínicos
+HISTIACIL NF AD JBE FCO 150ML;Medicamentos || Antitusivos
+HOJA DESECHABLE PARA TUNEL CARPAL;Equipo Médico || Quirófano
+HOJA LARING GLIDESCOPE ADULTO #3 S01-09-;Equipo Médico || Quirófano
+HOJA LARING GLIDESCOPE ADULTO #4 S01-09-;Equipo Médico || Quirófano
+HOJA P/ BISTURI 20 371234;Equipo Médico || Quirófano
+HOJA P/BISTURI 10 371230;Equipo Médico || Quirófano
+HOJA P/BISTURI 11 371231;Equipo Médico || Quirófano
+HOJA P/BISTURI 12 371232;Equipo Médico || Quirófano
+HOJA P/BISTURI 15 371233;Equipo Médico || Quirófano
+HOJA P/BISTURI 22 371236;Equipo Médico || Quirófano
+HOJA SAG P-FRC. 0.60X16X10MM S88-104;Equipo Médico || Quirófano
+HOJA SAG P-FRC. 0.60X16X6.4 MM S88-102;Equipo Médico || Quirófano
+HOJA SAG P-FRC. 0.60X46X19 MM S88-107;Equipo Médico || Quirófano
+HOJA-SIERRA 42/27*14*0.6/0.4 532.063S;Equipo Médico || Quirófano
+HOLTER 3 CANALES POR 24 HRS;Equipo Médico || Electrónica médica
+HUMALOG SOLINY FCOAMP 100 UI /ML 10 ML;Medicamentos || Insulinas Humanas y sus Análogos
+HUMIDIFICACION TERMICO CON OXIGENO;Equipo Médico || Quirófano
+HUMIDIFICADOR 500ML 4PSI 3230;Equipo Médico || Quirófano
+HUMIDIFICADOR DESEC (BORBOTEANTE) 002003;Equipo Médico || Mecánica y fluidos
+HUMULIN N FCO AMP 100UI/ML 10ML;Medicamentos || Insulinas Humanas y sus Análogos
+HUMULIN R FCO AMP 100UI/ML 10ML;Medicamentos || Insulinas Humanas y sus Análogos
+IBUPROFENO 400MG TAB;Medicamentos || Antirreumáticos no Esteroideos
+IDAPTAN MR 35 MG COMPRIMIDOS;Medicamentos || Nitritos y Nitratos
+IMATION FCO AMP 1G;Medicamentos || Cefalosporinas
+IMODIUM TAB 2MG;Medicamentos || Inhibidores de la Motilidad
+INDAFLEX CREMA TUBO 40G;Medicamentos || Antirreumáticos no Esteroideos
+INDOCID CAP 25MG;Medicamentos || Antirreumáticos no Esteroideos
+INDOCID SUP 100MG;Medicamentos || Antirreumáticos no Esteroideos
+INDOMETACINA CAP.25MG;Medicamentos || Antirreumáticos no Esteroideos
+INFALET 1G/10 ML SOL. INY;Medicamentos || Soluciones Estándar
+INFLUENZA A H1N1 2009 REAL TIME RT-PCR;Laboratorio || Análisis clínicos
+INFLUENZA DETECCION PRUEBA RAPIDA;Laboratorio || Estudios Especiales
+INFLUENZA DETECCION PRUEBA RAPIDA Ag A/B;Laboratorio || Estudios Especiales
+INHEPAR FCO AMP 1000UI/ML 10ML;Medicamentos || Anticoagulantes Inyectables
+INHEPAR FCO AMP 1000UI/ML 1ML;Medicamentos || Anticoagulantes Inyectables
+INHEPAR FCO AMP 5000UI/ML 10ML;Medicamentos || Anticoagulantes Inyectables
+INHEPAR SOL. INY. AMP 5000 U/ML 5 ML;Medicamentos || Soluciones Estándar
+INHIBITRON FCO AMP 40MG/10ML;Medicamentos || Antiulcerosos
+INJERTO TIBILAIS POSTERIOR 430340;Material de Curación || Traumatología y Ortopedia
+INMOVILIZADOR HOMBRO IH-1-U;Material de Curación || Médicas y Quirúrgicas
+INMUNOGLOBULINA E;Laboratorio || Análisis clínicos
+INNOVAIR 1.724/0.103 INHALADOR;Medicamentos || Corticoides
+INSTRUMENTAL DE ALTA ESPECIALIDAD;Instrumental || Básico
+INSTRUMENTAL DE ESPECIALIDAD AVANZADO;Instrumental || Básico
+INSTRUMENTAL DE MICROCIRUGIA DE COLUMNA;Instrumental || Básico
+INSTRUMENTAL PARA CIRUGIA ESPECIALIDAD;Equipo Médico || Quirófano
+INSTRUMENTAL QUIRURGICO (USO);Instrumental || Básico
+INSTRUMENTAL Y EQUIPO PARA ENDOSCOPIA CO;Equipo Médico || Quirófano
+INSULEX R FCO AMP 100UI /ML 10ML;Medicamentos || Insulinas Humanas y sus Análogos
+INSULINA HUMANA ACC. RAP100R10MLGI;Medicamentos || Insulinas Humanas y sus Análogos
+INVANZ FCO AMP 1G;Medicamentos || Otros Antibióticos
+IPRIKENE PVO SOB 3G;Medicamentos || Antidiarreicos y Absorbentes
+ISORBID TAB SUBL 5MG;Medicamentos || Nitritos y Nitratos
+ITALDERMOL GASA 4G;Cuadro Básico || Médicas y Quirúrgicas
+IZADIMA FCO AMP 1G IV;Medicamentos || Cefalosporinas
+JANUVIA 100 MG TAB;Medicamentos || Inhibidores de la DPP IV
+JELONET DE 10 X 10 CM NO. CAT. 7404;Material de Curación || Médicas y Quirúrgicas
+JERINGA ANGIOMAT ILUMENA 150 ML;Material de Curación || Médicas y Quirúrgicas
+JERINGA ASEPTO DESECHABLE 60 ML 4090;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA DESECHABLE 10 ML 21X32 302558;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA DESECHABLE 10 ML. 21X32 302558;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA DESECHABLE 10ML 21X32 302558;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA DESECHABLE 20 ML S/A 302562;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA DESECHABLE 20 ML. S/A 302562;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA DESECHABLE 20ML S/A 302562;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA DESECHABLE 3 ML 21X32 302539;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA DESECHABLE 5 ML 21X32 302549;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA DESECHABLE 5 ML. 21X32 302549;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA DESECHABLE 60 ML. 309663;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA DESECHABLE INSULINA 1 ML 327301;Material de Curación || Médicas y Quirúrgicas
+JERINGA DESECHABLE POSIFLUSH 10ML 306565;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA GASOMETRICA DESECH. 3 CC 364391;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA P/PERFUSOR TRANSPARENTE 50 ML;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA PERA DE HULE # 1;Material de Curación || Médicas y Quirúrgicas
+JUEGO ROPA DESECHAB. P/ CABEZA Y CUELLO;Hospitalización || General
+JUEGO ROPA DESECHAB. P/ CAMA;Hospitalización || General
+JUEGO ROPA DESECHAB. P/ CESAREA;Hospitalización || General
+JUEGO ROPA DESECHAB. P/ MESA DE QUIROFAN;Hospitalización || General
+JUEGO ROPA DESECHAB. P/ ORTOPEDIA GENERA;Hospitalización || General
+JUEGO ROPA DESECHAB. P/GINECOLOGIA;Hospitalización || General
+K-50 AMP 50MG/5ML;Medicamentos || Antagonistas (Antidotos de los Anticoagulantes)
+KEFLEX SUSP FCO 250MG/5ML 100ML;Medicamentos || Cefalosporinas
+KEFLEX TAB 500MG;Medicamentos || Cefalosporinas
+KEPPRA FCO AMP 100MG/ML 5ML;Medicamentos || Antiepilépticos
+KEPPRA SOL FCO 100MG/ML 150ML;Medicamentos || Soluciones Estándar
+KEPPRA TAB 500MG;Medicamentos || Antiepilépticos
+KETOPROFENO 100MG. CAP FGI;Medicamentos || Antirreumáticos Tópicos
+KETOROLACO -TRAMADOL 10 MG 25 MG AMP;Medicamentos || Narcóticos
+KETOROLACO SOL. INY. AMP. 30 MG/ 1 ML;Medicamentos || Antiinflamatorios no Esteroideos de Uso Oftálmico
+KETOROLACO SOL. INY. AMP. 30MG/1ML;Medicamentos || Antiinflamatorios no Esteroideos de Uso Oftálmico
+KETOROLACO SOL. INY. AMP. 30MG/1ML.;Medicamentos || Antiinflamatorios no Esteroideos de Uso Oftálmico
+KETOROLACO TAB 10MG;Medicamentos || Antiinflamatorios no Esteroideos de Uso Oftálmico
+KETOROLACO TAB SUBLINGUAL 30 MG;Medicamentos || Antiinflamatorios no Esteroideos de Uso Oftálmico
+KETOROLACO TAB. 10 MG.;Medicamentos || Antiinflamatorios no Esteroideos de Uso Oftálmico
+KIT ANGIOPLASTIA MAP302;Equipo Médico || Quirófano
+KIT BLOK EPIDURAL DESECHABLE 16 A1120-16;Material de Curación || Médicas y Quirúrgicas
+KIT BLOQUEO EPIDURAL DESECHABLE 16 A1120;Equipo Médico || Quirófano
+KIT BLOQUEO MIXTO A1908-16/27;Equipo Médico || Quirófano
+KIT C/JERINGA PRELL. 320/100 ML OPTIRAY;Cuadro Básico || Médicas y Quirúrgicas
+KIT CABEZA Y CUELLO 902153;Equipo Médico || Quirófano
+KIT CATETER RADIAL ULTIMATE 16FR U16FHPW;Material de Curación || Médicas y Quirúrgicas
+KIT CATETER TORACOSENTESIS 8 FR AK01000J;Material de Curación || Médicas y Quirúrgicas
+KIT CURACION I.V. 2602;Cuadro Básico || Médicas y Quirúrgicas
+KIT CURACION TIJERA Y PINZA 4131;Cuadro Básico || Médicas y Quirúrgicas
+KIT DESECHABLE PARA CAMA;Hospitalización || General
+KIT INTEGRAL CESAREA/KIT RN 900107;Equipo Médico || Quirófano
+KIT MAHURKAR 11.5 FR 9.5 CM 13793009;Equipo Médico || Mecánica y fluidos
+KIT P/CAPNOGRAFIA ADULTO CAT.7113;Material de Curación || Médicas y Quirúrgicas
+KIT PARA HOMBRO SPIDER 7210573;Equipo Médico || Quirófano
+KIT PARA RETIRO DE CATETER;Cuadro Básico || Médicas y Quirúrgicas
+KIT SELLO DE HEPARINA;Medicamentos || Anticoagulantes Inyectables
+KIT TRICOTOMIA 4104;Equipo Médico || Quirófano
+KLARICID HP TAB 500MG;Medicamentos || Macrólidos y Similares
+KLARICID IV FCO AMP 500MG;Medicamentos || Macrólidos y Similares
+KLARICID OD TAB 500MG;Medicamentos || Macrólidos y Similares
+KYTRIL AMP 3MG/3ML;Medicamentos || Antieméticos
+LACTEOL FORT CAP 170 MG;Medicamentos || Microorganismos Usados Como Antidiarreicos
+LACTEOL FORT PVO. SOB. 340 MG;Medicamentos || Microorganismos Usados Como Antidiarreicos
+LACTULAX JBE FCO 10G/15ML 250 ML.;Medicamentos || Laxantes
+LAMICTAL 25 MG TAB;Medicamentos || Antiepilépticos
+LAMICTAL DISPERSABLE TAB 100MG;Medicamentos || Antiepilépticos
+LAMPARA FRONTAL PARA CIRUGIA;Equipo Médico || Quirófano
+LANCETA DE ONE TOUCH;Material de Curación || Médicas y Quirúrgicas
+LANOXIN TAB 0.25MG;Medicamentos || Glucósidos Cardioactivos y sus Combinaciones
+LANTUS FCO AMP 3.64MG/ML10ML;Medicamentos || Insulinas Humanas y sus Análogos
+LANTUS SOLOSTAR DISP PRE 100 UI/ml;Medicamentos || Insulinas Humanas y sus Análogos
+LASILACTON CAP 20MG/50MG;Medicamentos || Diuréticos
+LASIX AMP 20MG/2ML;Medicamentos || Diuréticos
+LAVAMANOS REDONDO;Hospitalización || General
+LEFEBRE AMP 0.40MG/ML;Medicamentos || Narcóticos
+LENTE DE ENDOSCOPIA;Equipo Médico || Quirófano
+LEVAMIN NORMO 10% SOL. FCO 500 ML;Medicamentos || Soluciones Estándar
+LEVOFLOXACINO MINIBAG 500 MG / 100 ML;Medicamentos || Fluoroquinolonas
+LEVOFLOXACINO MINIBAG 750 MG / 150 ML;Medicamentos || Fluoroquinolonas
+LEVOFLOXACINO MINIBAG I.V. 750 MG / 150;Medicamentos || Fluoroquinolonas
+LEVOFLOXACINO MINIBAG I.V. 750 MG / 150M;Medicamentos || Fluoroquinolonas
+LEXAPRO TAB 10MG;Medicamentos || Antidepresivos y Estabilizadores del Ánimo
+LEXOTAN TAB 3MG;Medicamentos || Tranquilizantes
+LIBERTRIM AMP 0.050G/5ML;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+LIBERTRIM CPR 100MG;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+LIBERTRIM CPR 200MG;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+LIBERTRIM SDP SUSP.FCO 30 ML;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+LIBERTRIM SII 100 MG/37.5 MG TAB.;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+LIBERTRIM SII CPR 200MG/75MG;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+LIBONIDE FCO AMP 0.250MG/ML;Medicamentos || Corticoides
+LIDOCAINA C/EPINEFRINA FCO 2% 50ML;Medicamentos || Otros Productos Óticos
+LIDOCAINA FCO 2% 50ML;Medicamentos || Otros Productos Óticos
+LIMP P/ELECTROCAUTERIO RADIOPACO C-3200;Equipo Médico || Quirófano
+LIPASA;Laboratorio || Análisis clínicos
+LIPITOR DUO TAB 20 MG;Medicamentos || Agentes para la Reducción de las Concentraciones de Colesterol y Triglicéridos
+LIPITOR DUO TAB 80 MG;Medicamentos || Agentes para la Reducción de las Concentraciones de Colesterol y Triglicéridos
+LIPITOR TAB 40MG;Medicamentos || Agentes para la Reducción de las Concentraciones de Colesterol y Triglicéridos
+LOMOTIL TAB 2MG;Medicamentos || Inhibidores de la Motilidad
+LONOL SOL SPRAY FCO 0.15G/100M 30ML;Medicamentos || Soluciones Estándar
+LOPERAMIDA 2MG. TAB;Medicamentos || Inhibidores de la Motilidad
+LORATADINA TAB. 10 MG.;Medicamentos || Antihistamínicos Sistémicos
+LOSEC A-20 CAP 20MG;Medicamentos || Antiulcerosos
+LOZAM 2MG/ML SOL. INY. AMP;Medicamentos || Tranquilizantes
+LYRICA CAP 75MG;Medicamentos || Antiepilépticos
+LYRICA TAB. 150MG;Medicamentos || Antiepilépticos
+LYSOMUCIL 200MG SOBRES;Medicamentos || Expectorantes
+LYSOMUCIL SOL. 2% 120 ML;Medicamentos || Soluciones Estándar
+LYSOMUCIL TAB EFERV 600MG;Medicamentos || Expectorantes
+M.V.I. 12 AD FCO AMP 5ML;Medicamentos || Multivitaminas Sin Minerales
+MACRODANTINA CAP 100MG;Medicamentos || Anti-Infecciosos y Antisépticos Urinarios
+MAGNEFUSIN AMP 1G/10ML;Medicamentos || Soluciones Electrolíticas (<100 ML)
+MAGNESIO;Laboratorio || Análisis clínicos
+MALLA PROLENE 15X15 PMH;Equipo Médico || Quirófano
+MANO 1 PROYECCION;Laboratorio || Radiología
+MANO 2 PROYECCIONES;Laboratorio || Radiología
+MAQUINA DE ANESTESIA 1 HORA (USO);Equipo Médico || Quirófano
+MAQUINA DE ANESTESIA 1 HR (USO) UCE;Equipo Médico || Quirófano
+MAQUINA DE ANESTESIA 1/2 HORA ADICIONAL;Material de Curación || Anestesiología
+MAQUINA DE ANESTESIA 1/2 HORA ADICIONAL(;Material de Curación || Anestesiología
+MAQUINA DE ANESTESIA 2 HORAS (USO);Equipo Médico || Quirófano
+MAQUINA DE ANESTESIA 3 HORAS (USO);Equipo Médico || Quirófano
+MAQUINA DE ANESTESIA 4 HORAS (USO);Equipo Médico || Quirófano
+MAQUINA DE ANESTESIA 6 HORAS (USO);Equipo Médico || Quirófano
+MAQUINA DE ANESTESIA CADA 30 MIN ADICION;Material de Curación || Anestesiología
+MASCARILLA TIENDA FACIAL SL-1110;Instrumental || Básico
+MASTOGRAFIA CON MARCAJE;Laboratorio || Estudios Especiales
+MASTOGRAFIA UNILATERAL;Laboratorio || Estudios Especiales
+MATRIZ OSEA DESMINERALIZADA 10CC;Equipo Médico || Implantables
+MEDIA TED A LA RODILLA CAT. 38101 MED;Cuadro Básico || Médicas y Quirúrgicas
+MEDIA TED A LA RODILLA CAT. 38102 GDE;Cuadro Básico || Médicas y Quirúrgicas
+MEDIA TED A LA RODILLA CAT.MED 7115K;Cuadro Básico || Médicas y Quirúrgicas
+MEDIA TED AL MUSLO CHICA-LGA 3222LF;Material de Curación || Traumatología y Ortopedia
+MEDIA TED AL MUSLO EXTRA GRANDE L 13350;Material de Curación || Traumatología y Ortopedia
+MEDIA TED AL MUSLO GDE-CORTA 3634LF;Material de Curación || Traumatología y Ortopedia
+MEDIA TED AL MUSLO MEDIAN-LGA 3549LF;Material de Curación || Cardiología de Uso General
+MEDIA TED AL MUSLO MEDIANA-CTA 3310LF;Material de Curación || Traumatología y Ortopedia
+MEDIA TED EXTRAGRANDE LARGA AL MUSLO;Material de Curación || Traumatología y Ortopedia
+MEDIA TED GRANDE-LARGA AL MUSLO;Material de Curación || Traumatología y Ortopedia
+MEDIA TED GRANDE-LARGA AL MUSLO 38108;Material de Curación || Traumatología y Ortopedia
+MEDIA TED MEDIANA-LARGA AL MUSLO;Material de Curación || Traumatología y Ortopedia
+MEDIA TED MEDIANA-LARGA AL MUSLO 38106;Material de Curación || Traumatología y Ortopedia
+MEDIA TED MUSLO GDE-LGA 3856LF;Material de Curación || Cardiología de Uso General
+MESA MAQUET(USO);Equipo Médico || Quirófano
+MESA PARA COLUMNA (USO);Equipo Médico || Quirófano
+MESA UROLOGIA (USO);Equipo Médico || Quirófano
+METAMIZOL AMP 1G/2ML;Medicamentos || No Narcóticos y Antipiréticos
+METFORMINA TAB 850MG FGI;Medicamentos || Biguanidas Antidiabéticas
+METICEL SOL OFT FCO GTS 2% 10ML;Medicamentos || Soluciones Estándar
+METICORTEN TAB 20MG;Medicamentos || Corticosteroides Sistémicos, Puros
+METILPREDNISOLONA FCO AMP 500MG/8ML;Medicamentos || Corticosteroides Sistémicos, Puros
+METILPREDNISOLONA FCO. AMP. 500 mg/4 ml.;Medicamentos || Corticosteroides Tópicos Solos
+METOCLOPRAMIDA AMP 10 MG/ 2 ML;Medicamentos || Gastroprocinéticos
+METOCLOPRAMIDA AMP. 10 MG.;Medicamentos || Gastroprocinéticos
+METOCLOPRAMIDA AMP. 10 MG/2 ML;Medicamentos || Gastroprocinéticos
+METOCLOPRAMIDA TAB 10MG;Medicamentos || Gastroprocinéticos
+METRONIDAZOL 500 MG. TAB FGI;Medicamentos || Anaerobicidas
+METRONIDAZOL 500MG/100ML INY.;Medicamentos || Anaerobicidas
+METRONIDAZOL FLEX 500MG/100ML INY.;Medicamentos || Anaerobicidas
+MEZCLA ONCOLOGICOS ADULTO;Medicamentos || Otros Antineoplásicos
+MIACALCIC AMP 100 UI/1 ML;Medicamentos || Calcitoninas
+MICARDIS DUO 40MG/5 MG;Medicamentos || Antagonistas de la Angiotensina II Combinados
+MICARDIS DUO 80MG/5MG;Medicamentos || Antagonistas de la Angiotensina II Combinados
+MICARDIS PLUS 80/25MG;Medicamentos || Antagonistas de la Angiotensina II Combinados
+MICARDIS PLUS TAB 80 MG/12. MG;Medicamentos || Antagonistas de la Angiotensina II Combinados
+MICARDIS TAB 80MG;Medicamentos || Antagonistas de la Angiotensina II Solos
+MICCIL AMP 0.5MG/2ML;Medicamentos || Diuréticos
+MICCIL CPR 1MG;Medicamentos || Diuréticos
+MICRO CLAVE C/EXT.MICRO 30CM 3V 4031208;Equipo Médico || Quirófano
+MICROLAX SUSP ENEMA 90MG/9MG/ML 5ML;Cuadro Básico || Médicas y Quirúrgicas
+MICRONEBULIZADOR C/MASCARA ADULTO 002033;Equipo Médico || Mecánica y fluidos
+MICRONEBULIZADOR EN T 002034;Equipo Médico || Mecánica y fluidos
+MICROSCOPIO PENTERO (USO);Equipo Médico || Quirófano
+MIDAS-REX LEGEND 14X3 MMMALCH HEAD 14MH3;Instrumental || Catálogo
+MIDAZOLAM 5MG/5ML;Medicamentos || Hipnóticos-Sedantes
+MIDAZOLAM amp 15/3ml;Medicamentos || Hipnóticos-Sedantes
+MIDAZOLAM AMP 15MG/3ML;Medicamentos || Hipnóticos-Sedantes
+MIDAZOLAM AMP 5MG/5ML;Medicamentos || Hipnóticos-Sedantes
+MINIPRES CAP 1MG;Medicamentos || Antihipertensivos Solos (No Herbolarios)
+MINIPRES CAP 2MG;Medicamentos || Antihipertensivos Solos (No Herbolarios)
+MINITRAN 18MG (5MG/24HRS);Medicamentos || Nitritos y Nitratos
+MIOGLOBINA;Laboratorio || Análisis clínicos
+MIRCERA 100 MCG/0.3 CAJA;Medicamentos || Productos con Eritropoyetina
+MIRCERA JGA. 200mcg/3ml;Medicamentos || Productos con Eritropoyetina
+MOCO FECAL;Laboratorio || Análisis clínicos
+MONITOR ANESTESICO (USO);Equipo Médico || Electrónica médica
+MONITOR BIS (USO);Equipo Médico || Electrónica médica
+MONITOREO ADULTO (USO);Equipo Médico || Quirófano
+MONITOREO AMBULATORIO DE PRESION ARTERIA;Cuadro Básico || Medicina Preventiva
+MONOCRYL INCOLORO 5-0 AG PS-2 Y495G;Material de Curación || Quirúrgicas
+MONOCRYL* PLUS MCP316H;Material de Curación || Quirúrgicas
+MONOCRYL*PLUS MCP490G;Material de Curación || Quirúrgicas
+MONOCRYL*PLUS MCP936H;Material de Curación || Médicas y Quirúrgicas
+MORFINA SOL.INY. AMP 10 MG / 10 ML;Medicamentos || Narcóticos
+MOTRIN FCO SUSP INF 2G/100ML 120ML;Medicamentos || Antirreumáticos no Esteroideos
+MUCOSOLVAN AMP 15MG/2ML;Medicamentos || Expectorantes
+MUCOSOLVAN CPR 30MG;Medicamentos || Expectorantes
+MYFORTIC CAP 360 MG;Medicamentos || Agentes Inmunosupresores Selectivos
+NAROPIN AMP 7.5 MG/20 ML;Medicamentos || Anestésicos Locales
+NAVAJA PARA CABEZA Y CUELLO 4412A;Cuadro Básico || Médicas y Quirúrgicas
+NAVAJA PARA CIRUJIA GENERAL 4406;Cuadro Básico || Médicas y Quirúrgicas
+NAVAJA PARA USO GINECOLOGICO;Laboratorio || Perfiles
+NAXIFELAR CAP 500MG;Medicamentos || Cefalosporinas
+NEO-MELUBRINA AMP 1G/2ML;Medicamentos || No Narcóticos y Antipiréticos
+NEO-MELUBRINA AMP 2.5G/5ML;Medicamentos || No Narcóticos y Antipiréticos
+NEO-MELUBRINA TAB 500MG;Medicamentos || No Narcóticos y Antipiréticos
+NEO/ADULT OXI SENSOR MAX N 429984;Equipo Médico || Mecánica y fluidos
+NEOSPORIN DERMICO UNG TUB 30G;Medicamentos || Productos Tópicos para el Tratamiento de las Infecciones Virales
+NEURONTIN CAP 300MG;Medicamentos || Antiepilépticos
+NEXIUM FCO AMP 40MG IV;Medicamentos || Antiulcerosos
+NEXIUM PED GRANULADO SOB 10MG;Medicamentos || Antiulcerosos
+NEXIUM SOB GRANULADO PED 2.5MG;Medicamentos || Antiulcerosos
+NEXIUM-MUPS TAB 40MG;Medicamentos || Antiulcerosos
+NIFEDIPINO CAP.10MG FGI;Medicamentos || Calcioantagonistas Solos
+NITROGENO UREICO (BUN);Laboratorio || Análisis clínicos
+NITROGENO UREICO EN ORINA PERIODICA;Laboratorio || Análisis clínicos
+NITROGLICERINA FCO AMP 50 MG/10 ML;Medicamentos || Nitritos y Nitratos
+NOOTROPIL TAB 800 MG;Medicamentos || Nootrópicos (Noosténicos)
+NORMOSOL M DEXTROSA 5% 1000 ML 47;Medicamentos || Soluciones Estándar
+NOVAFIL 2-0 T5 445251;Material de Curación || Médicas y Quirúrgicas
+NPLATE 250 MCG FCO AMP;Medicamentos || Antagonistas (Antidotos de los Anticoagulantes)
+NPLATE 250MG FCO. AMP.;Medicamentos || Antagonistas (Antidotos de los Anticoagulantes)
+NPLATE FCO AMP;Medicamentos || Antagonistas (Antidotos de los Anticoagulantes)
+NUCLEO CMP FORTE CAP 5MG/3MG;Medicamentos || Todas las Demás Drogas que Actúan Sobre el SNC
+O2 DE TRASLADO;Equipo Médico || Quirófano
+OBSERVACION CUARTO DE LABOR 2 HRS;Hospitalización || General
+OBSERVACION CUARTO DE LABOR 3 HRS;Hospitalización || General
+OBSERVACION CUARTO DE LABOR 4 HRS;Hospitalización || General
+OBSERVACION CUARTO DE LABOR 7 HRS;Hospitalización || General
+OBSERVACION CUARTO DE LABOR 9 HRS;Hospitalización || General
+OMEPRAZOL CAP. 20MG;Medicamentos || Antiulcerosos
+OMEPRAZOL FCO AMP 40 MG;Medicamentos || Antiulcerosos
+OMEPRAZOL IV 40MG AMP;Medicamentos || Antiulcerosos
+ONDANSENTRON AMP 4 MG/2 ML;Medicamentos || Antieméticos
+ONDANSENTRON AMP 8 MG/4 ML;Medicamentos || Antieméticos
+ONDANSETRON SOL. INY. 8MG / 4ML;Medicamentos || Antieméticos
+ONEMER AMP 30MG/ML;Medicamentos || Antiinflamatorios no Esteroideos de Uso Oftálmico
+ONEMER SL 30MG C/4 TAD.SUDLING CAT. 4002;Cuadro Básico || Médicas y Quirúrgicas
+ONEMER TAB 10MG;Medicamentos || Antiinflamatorios no Esteroideos de Uso Oftálmico
+ONICIT FCO AMP 0.05MG/ML 1.5ML;Medicamentos || Antieméticos
+ONICIT FCO AMP 0.05MG/ML 5ML;Medicamentos || Antieméticos
+ORINAL DESECHABLE C/TAPA OS-1;Hospitalización || General
+ORTHOGLASS DE 10 CMS X 4.5 MTS. OG-4L;Material de Curación || Médicas y Quirúrgicas
+ORTOPSIQUE AMP 10MG/2ML;Medicamentos || Tranquilizantes
+OTROZOL FCO 5MG/ML 100ML;Medicamentos || Anaerobicidas
+OVESTIN CRA 15 GM. 15G.C/APL.;Medicamentos || Hormonas Sexuales Tópicas
+OXIGENOTERAPIA 1-3 HORAS;Equipo Médico || Quirófano
+OXIGENOTERAPIA 12-24 HORAS;Equipo Médico || Mecánica y fluidos
+OXIGENOTERAPIA 6-12 HORAS;Equipo Médico || Quirófano
+OXIMETRIA DE PULSO (24 HORAS);Equipo Médico || Electrónica médica
+OXIMETRIA MENOR A 8 HORAS;Equipo Médico || Quirófano
+OXITOPISA AMP 5UI/ML;Medicamentos || Inductores del Trabajo de Parto
+PANAL HUGGIES ETAPA 1 RECIEN NACIDO;Cuadro Básico || Ginecología y Obstetricia
+PANCLASA AMP 40MG/0.04MG/2ML;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+PANOTOS-S JBE 100ML;Medicamentos || Antitusivos
+PANTOPRAZOL 40 MG. TAB. FGI;Medicamentos || Antiulcerosos
+PANTOPRAZOL FCO AMP 40 MG I.V.;Medicamentos || Antiulcerosos
+PANTOZOL FCO AMP 40MG;Medicamentos || Antiulcerosos
+PANTOZOL TAB 40MG;Medicamentos || Antiulcerosos
+PAQ.INTEG.LAPAROSC.GRAL. MEDPOL PLG00868;Equipo Médico || Quirófano
+PAQUETE CITOSCOPIA 77383;Equipo Médico || Quirófano
+PAQUETE ENDOSCOPIA 88048;Equipo Médico || Quirófano
+PAQUETE UNIVERSAL 29107;Equipo Médico || Quirófano
+PARACETAMOL 500 MG TAB;Medicamentos || No Narcóticos y Antipiréticos
+PARACETAMOL JARABE FCO;Medicamentos || No Narcóticos y Antipiréticos
+PARACETAMOL TAB. 500 MG.;Medicamentos || No Narcóticos y Antipiréticos
+PCR DNA HERPES VIRUS I Y II;Laboratorio || Análisis clínicos
+PCR M TUBERCULOSIS NO RESPIRATORIO;Laboratorio || Análisis clínicos
+PCR RNA VIH CUANTITATIVA (CARGA VIRAL);Laboratorio || Análisis clínicos
+PCR.BORRELIA B.(ENF.LYME)LCR;Laboratorio || Análisis clínicos
+PDS 3-0 Z338;Material de Curación || Quirúrgicas
+PDS II VIOLETA 3-0 SH Z316H;Material de Curación || Quirúrgicas
+PEDIALYTE UVA SOL FCO 500ML;Medicamentos || Tratamiento de Reemplazo Oral con Electrólitos
+PEMIX TAB 1MG;Medicamentos || Gastroprocinéticos
+PENTREN FCO AMP 40MG/10ML;Medicamentos || Antiulcerosos
+PERCUSION INTRAPULMONAR CARGO DIARIO;Equipo Médico || Medicina física y rehabilitación
+PERFIL CARDIACO II;Laboratorio || Perfiles
+PERFIL DE ANTI-FOSFOLIPIDOS;Laboratorio || Perfiles
+PERFIL HEPATICO I;Laboratorio || Perfiles
+PERFIL LIPIDOS II (2);Laboratorio || Análisis clínicos
+PERFIL MEDICO XXI;Laboratorio || Perfiles
+PERFIL PREOPERATORIO VI;Laboratorio || Perfiles
+PERFIL REUMATICO;Laboratorio || Perfiles
+PERFIL RUTINA DE CORDON;Laboratorio || Perfiles
+PERFIL SMA-12;Laboratorio || Perfiles
+PERFIL SMA-18;Laboratorio || Perfiles
+PERFIL TIROIDEO;Laboratorio || Perfiles
+PERFIL TORCH I (IgG);Laboratorio || Perfiles
+PERFIL TORCH II (IgM);Laboratorio || Perfiles
+PIASCLEDINE 300 MG;Medicamentos || Otros Productos para Tratar el Sistema Musculoesquelético
+PIN GUIA ROSCADA 2.4X230 MM 320-2775;Cuadro Básico || Médicas y Quirúrgicas
+PIN GUIA ROSCADA 3.2X230 MM 320-2776;Cuadro Básico || Médicas y Quirúrgicas
+PINZA BIOPSIA 160 NEO222B MCA ENDOFLEX;Cuadro Básico || Médicas y Quirúrgicas
+PINZA BIOPSIA 230CM NE0222G MAR ENDOFLEX;Cuadro Básico || Médicas y Quirúrgicas
+PINZA BIPOLAR (USO);Instrumental || Básico
+PINZA DE BIOPSIA 280CM NEO222G BLUE SERV;Cuadro Básico || Médicas y Quirúrgicas
+PINZA FCP 9-PIN CURVE E01-00-915000PK;Cuadro Básico || Médicas y Quirúrgicas
+PINZA P/BOLSA DRENABLE 7770;Equipo Médico || Mecánica y fluidos
+PIRIMIR TAB 100MG;Medicamentos || Anti-Infecciosos y Antisépticos Urinarios
+PISACAINA 2 % FCO AMP 50 ML;Medicamentos || Otros Productos Óticos
+PISACAINA 2% C/EPINEF. FCO. AMP. 50 ML.;Medicamentos || Otros Productos Óticos
+PISACAINA 2% C/EPINF FCO AMP 50ML;Medicamentos || Otros Productos Óticos
+PISACAINA 2% SIN/EPINE. FCO AMP 50 ML;Medicamentos || Otros Productos Óticos
+PISACAINA AL 2% (AMP.) 200 MG/10 ML;Medicamentos || Otros Productos Óticos
+PISACAINA AMP 2% 200MG/10ML;Medicamentos || Otros Productos Óticos
+PISACAINA FCO AMP 2% 20MG/ML 50 ML;Medicamentos || Otros Productos Óticos
+PISACAINA FCO SPRAY 10G/100ML 115ML;Medicamentos || Otros Productos Óticos
+PISAPEM FCO AMP 1G/20ML;Medicamentos || Otros Antibacterianos Beta-Lactámicos, Excluyendo Penicilinas y Cefalosporinas
+PLACA CERVICAL 23MM;Instrumental || Básico
+PLACA P/ELECTROCAUTERIO DESECH. E7507;Equipo Médico || Quirófano
+PLAQUENIL TAB 200MG;Medicamentos || Antimaláricos
+PLAVIX TAB 75MG;Medicamentos || Inhibidores de la Agregación Plaquetaria
+PLIDAN CPTO. TAB 10/125 MG;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+PLUMA P/CIR -TWIN TIP SURGEON'S PEN-;Cuadro Básico || Médicas y Quirúrgicas
+POLIXIN OFTENO SOL FCO GTS 15ML;Medicamentos || Soluciones Estándar
+POLIYODINE SOLUCION 20 ML;Medicamentos || Antisépticos Quirúigicos
+POSIPEN FCO AMP 500MG/4ML;Medicamentos || Penicilinas de Espectro Medio y Reducido
+POTASIO;Laboratorio || Análisis clínicos
+POTASIO EN ORINA AL AZAR;Laboratorio || Análisis clínicos
+POTENCIALES EVOCADOS A PISOS (HOSPITAL);Laboratorio || Estudios Especiales
+POTENCIALES EVOCADOS SOMATO SENSORIALES;Laboratorio || Estudios Especiales
+PRAMOTIL AMP 10MG/2ML;Medicamentos || Gastroprocinéticos
+PREGABALINA TAB. 75 mg;Medicamentos || Antiepilépticos
+PREMIUM SURGICLIP CAT. U134055;Cuadro Básico || Médicas y Quirúrgicas
+PREOPERATORIO BASICO;Laboratorio || Análisis clínicos
+PRESTACION DE SERVICIOS HOSPITALARIOS;Cuadro Básico || Médicas y Quirúrgicas
+PROBETA DESECHABLE 225 ML 49100;Cuadro Básico || Central de Equipos y Esterilización
+PROCALCITONINA;Laboratorio || Análisis clínicos
+PROCORALAN TAB 5 MG;Medicamentos || Todas las Demás Preparaciones para el Corazón
+PRODOLINA AMP 2G/4ML;Medicamentos || No Narcóticos y Antipiréticos
+PROFENID AMP 100 MG/2ML IM;Medicamentos || Antirreumáticos Tópicos
+PROFENID CAP 100MG;Medicamentos || Antirreumáticos Tópicos
+PROFENID IV FCO AMP 100MG;Medicamentos || Antirreumáticos Tópicos
+PROGRAF CAP DE 1 MG;Medicamentos || Otros Productos no Esteroides para Tratar Trastornos Inflamatorios de la Piel
+PROGRAF CAP DE 5 MG;Medicamentos || Otros Productos no Esteroides para Tratar Trastornos Inflamatorios de la Piel
+PROLENE 1-0 CT-1 8424T;Material de Curación || Médicas y Quirúrgicas
+PROLENE 2-0 KS 8623H;Material de Curación || Quirúrgicas
+PROLENE 3-0 AG PS-1 P8663T;Material de Curación || Médicas y Quirúrgicas
+PROLENE* BLUE 0 75CM SH 8834T;Material de Curación || Quirúrgicas
+PROSTIGMINE AMP 0.5MG/ML;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+PROTAMINA 1000 AMP 5000UI/5ML;Medicamentos || Antagonistas (Antidotos de los Anticoagulantes)
+PROTECT CUTANEO NOSTING C/ISOPO 1 ML;Material de Curación || Médicas y Quirúrgicas
+PROTECTOR P/LAMPARA QUIRURGICA 8002;Equipo Médico || Quirófano
+PROTEINA 'C' REACTIVA;Laboratorio || Perfiles
+PROTEINA 'C' REACTIVA ULTRASENSIBLE;Laboratorio || Perfiles
+PROTEINA 'C' Y 'S' DE COAGULACION;Laboratorio || Análisis clínicos
+PROXIMATE GRAPA ANCHA PMW35;Instrumental || Catálogo
+PUDDLE VAC GRUPPY;Equipo Médico || Quirófano
+PULMICORT SUSP P/NEB AMP 0.125MG/ML 2ML;Medicamentos || Corticoides
+PULMICORT SUSP P/NEB AMP 0.250MG/ML 2ML;Medicamentos || Corticoides
+QUADRIDERM NF CREMA TUB 40G;Medicamentos || Combinaciones de Corticoesteroides Tópicos
+QUIMICA SANGUINEA (24);Laboratorio || Análisis clínicos
+QUIMICA SANGUINEA (5) LAB;Laboratorio || Análisis clínicos
+QUIMICA SANGUINEA (6);Laboratorio || Análisis clínicos
+QUIMICA SANGUINEA (GLUC BUN CREAT) 3;Laboratorio || Análisis clínicos
+QUIMICA SANGUINEA 4 GLUC BUN CREAT AU;Laboratorio || Análisis clínicos
+R M COLUMNA LUMBAR;Laboratorio || Radiología
+R M RODILLA SIN CONTRASTE;Laboratorio || Estudios Especiales
+RADIOGRAFIA PORTATIL;Laboratorio || Radiología
+RADIOGRAFIA TRANSOPERATORIO CADA PROYECC;Laboratorio || Radiología
+RANISEN AMP 50 MG/2 ML;Medicamentos || Antiulcerosos
+RANISEN AMP 50MG/2ML;Medicamentos || Antiulcerosos
+RANISEN CPR 300MG;Medicamentos || Antiulcerosos
+RANISEN JBE. FCO 200 ML;Medicamentos || Antiulcerosos
+RANISEN PED SOL FCO GTS 30ML;Medicamentos || Soluciones Estándar
+RANISEN TAB 150MG;Medicamentos || Antiulcerosos
+RANITIDINA AMP 50MG/2ML;Medicamentos || Antiulcerosos
+RANITIDINA AMP.50 MG 5ML;Medicamentos || Antiulcerosos
+RANITIDINA TAB 150MG;Medicamentos || Antiulcerosos
+RANULIN AMP 50MG/2ML;Medicamentos || Antiulcerosos
+RAPIVIR COMP 500MG;Medicamentos || Antivirales, Excluyendo Productos Anti-VIH
+RAPIX AMP 30MG/2ML;Medicamentos || Antiinflamatorios no Esteroideos de Uso Oftálmico
+REACCIONES FEBRILES;Laboratorio || Análisis clínicos
+RECOFOL 20 MG/ML FCO. 50 ML.;Medicamentos || Anestésicos Generales
+RECOFOL AMP 20MG/ML 20ML;Medicamentos || Anestésicos Generales
+RECOLECTOR FLUIDOS TERAPIA VAC M8275058;Cuadro Básico || Médicas y Quirúrgicas
+RECOLECTOR FLUIDOS TERAPIA VAC M8275063;Cuadro Básico || Médicas y Quirúrgicas
+RECOLECTOR PUNZOCORTANTES 1.41 LTS.;Cuadro Básico || Médicas y Quirúrgicas
+RECOLECTOR PUNZOCORTANTES 7.6 LTS 300180;Cuadro Básico || Médicas y Quirúrgicas
+RECORMON 5000U JGA 1 ML;Medicamentos || Productos con Eritropoyetina
+RELACUM AMP 5MG/5 ML;Medicamentos || Relajantes Musculares de Acción Periférica
+RELAZEPAM AMP 10 MG/ 2 ML;Medicamentos || Tranquilizantes
+RESERVORIO 2160 100CC SUCTION;Equipo Médico || Quirófano
+REVOLADE 50MG TAB;Medicamentos || Hemostáticos Sistémicos
+RIFOCYNA SOL SPRAY 1G/100ML 20ML;Medicamentos || Soluciones Estándar
+RINON DESECHABLE GRADUADO 5212100;Equipo Médico || Quirófano
+RIVOTRIL SOL FCO GTS 10ML;Medicamentos || Antiepilépticos
+RIVOTRIL TAB 2MG;Medicamentos || Antiepilépticos
+ROCEPHIN FCO AMP 1G/10ML IV;Medicamentos || Cefalosporinas
+ROCEPHIN IM FCO AMP 1G/3.5ML;Medicamentos || Cefalosporinas
+ROPICONEST AMP 2 MG/ML 20ML;Medicamentos || Anestésicos Locales
+ROPICONEST AMP 7.5MG/ML 20ML;Medicamentos || Anestésicos Generales
+ROTAVIRUS;Laboratorio || Análisis clínicos
+RUBIN CALCAGNO FCO 500ML;Medicamentos || Soluciones Estándar
+SALA CIRUGIA MENOR;Equipo Médico || Quirófano
+SALA DE CIRUGIA MENOR FRACCION SUBSECUEN;Equipo Médico || Quirófano
+SALA DE CORTA ESTANCIA;Hospitalización || General
+SALA DE LABOR;Hospitalización || General
+SALA DE RECUPERACION 1 HR CIR;Hospitalización || General
+SALA DE RECUPERACION 1 HR GOB;Hospitalización || General
+SALA DE RECUPERACION 1 HR REC;Hospitalización || General
+SALA DE RECUPERACION 1 HR UCE;Hospitalización || General
+SALA DE RECUPERACION 1/2 HRS ADICIONAL;Hospitalización || General
+SALA DE URGENCIA 1ERA. HORA;Hospitalización || General
+SALA DE URGENCIA FRACCION ADICIONAL;Hospitalización || General
+SALA ENDOSCOPIA HASTA 1 HR;Equipo Médico || Quirófano
+SALA QUIRURGICA (FRACCION ADICIONAL);Hospitalización || General
+SALOFALK TAB 500MG;Medicamentos || Agentes Antiinflamatorios Intestinales
+SAMYR 500 MG COMP;Medicamentos || Protectores Hepáticos y Lipotrópicos
+SAMYR FCO AMP 500MG/5ML;Medicamentos || Protectores Hepáticos y Lipotrópicos
+SECOTEX||OCAS TAB 0.4 MG;Medicamentos || Productos para la Hiperplásia Prostática Benigna
+SEDA N.1 T-12 K425H;Material de Curación || Médicas y Quirúrgicas
+SEDA N.A. 1-0 SH K834H;Material de Curación || Médicas y Quirúrgicas
+SEDA N.A. 2-0 SH K833H;Material de Curación || Médicas y Quirúrgicas
+SEDA P.H. 1 MH O CT-1 K845H;Material de Curación || Médicas y Quirúrgicas
+SEDA P.H. 1 S/A SA87T;Material de Curación || Médicas y Quirúrgicas
+SEDA P.H. 1 SH K835H;Material de Curación || Médicas y Quirúrgicas
+SEDA P.H. 1-0 -H S/A SA86T;Material de Curación || Médicas y Quirúrgicas
+SEDA P.H. 2-0 S/A SA85T;Material de Curación || Médicas y Quirúrgicas
+SEDA P.H. 3-0 S/A SA84T;Material de Curación || Médicas y Quirúrgicas
+SEDA P.H. 3-0 SH K832H;Material de Curación || Médicas y Quirúrgicas
+SEDA P.H. 4-0 SH K831H;Material de Curación || Médicas y Quirúrgicas
+SELOKEN ZOK GRAG 95MG;Medicamentos || Beta Bloqueadores Solos
+SELOPRES ZOK TAB LIB PROL 95MG/12.5MG;Medicamentos || Agentes Beta Bloqueadores Combinados
+SELTAFERON CAP 75MG;Medicamentos || Antivirales, Excluyendo Productos Anti-VIH
+SENSOR BIS XP ADULTO 186-0106;Equipo Médico || Electrónica médica
+SEPARADOR MICROCIRUGIA DE COLUMNA (USO);Instrumental || Básico
+SERC TAB. 24 MG. C/30;Medicamentos || Productos contra el Vértigo
+SERVICIO DE ASEPSIA Y CURACION;Material de Curación || Médicas y Quirúrgicas
+SERVICIO INTEGRAL CIRUGIA LAPAROSCOPICA;Equipo Médico || Quirófano
+SERVICIO INTEGRAL CON BISTURI ARMONICO;Equipo Médico || Quirófano
+SERVICIO INTEGRAL ENDOSCOPIA NASAL APB;Equipo Médico || Quirófano
+SERVICIO PARA CISTOSCOPIA DIAGNOSTICA DO;Equipo Médico || Quirófano
+SERVICIOS HOSPITALARIOS;Cuadro Básico || Médicas y Quirúrgicas
+SET CAT DOBLE J SILIC 6FRX24CM 133624;Cuadro Básico || Médicas y Quirúrgicas
+SET CAT URETERAL DOBLE J 133626 060026;Cuadro Básico || Médicas y Quirúrgicas
+SET CATETER DOBLE J 6FR 26 CM 039626;Cuadro Básico || Médicas y Quirúrgicas
+SET DE COLUMNA ALTA ESPECIALIDAD;Instrumental || Básico
+SET J UNIVERSA SOFT 5FRX26CM USH-526;Equipo Médico || Quirófano
+SIERRA MIDAS REX (USO);Instrumental || Catálogo
+SIFROL ER 1.5 mg TAB;Medicamentos || Medicamentos contra el Mal de Parkinson
+SINERGIX AMP 10MG/25 MG;Medicamentos || No Narcóticos y Antipiréticos
+SINGULAIR GRA 10 MG;Medicamentos || Antiasmáticos Antileucotrieno
+SINGULAIR GRANULADO SOB 4MG;Medicamentos || Antiasmáticos Antileucotrieno
+SIRDALUD TAB 2MG;Medicamentos || Relajantes Musculares de Acción Central
+SIVEXTRO AMP 200MG;Medicamentos || Otros Antibióticos
+SODIO;Laboratorio || Análisis clínicos
+SODIO EN ORINA AL AZAR;Laboratorio || Análisis clínicos
+SOLU-MEDROL FCO AMP 500MG/8ML;Medicamentos || Corticosteroides Sistémicos, Puros
+SOLUCION CS 0.9% FCO 100ML;Medicamentos || Soluciones Estándar
+SOLUCION CS-C AMP 17.7% 10ML;Medicamentos || Soluciones Estándar
+SOLUCION DX-5 5 % FCO 100 ML;Medicamentos || Soluciones Estándar
+SOLUCION DX-50 50ML;Medicamentos || Soluciones Estándar
+SOLUCION GC 10% AMP 10 ML;Medicamentos || Soluciones Estándar
+SOLUCION HARTMANN 1000 ML 25;Medicamentos || Soluciones Estándar
+SOLUCION HARTMANN 1000ML 25;Medicamentos || Soluciones Estándar
+SOLUCION HARTMANN 250 ML BOTE PISA;Medicamentos || Soluciones Estándar
+SOLUCION HARTMANN 500 ML 24;Medicamentos || Soluciones Estándar
+SOLUCION MIXTA 1000 ML 19;Medicamentos || Soluciones Estándar
+SOLUCION MIXTA 500 ML 18;Medicamentos || Soluciones Estándar
+SOMAZINA AMP 1000MG/4ML;Medicamentos || Medicamentos para el Tratamiento de las Enfermedades Vasculares Cerebrales y Periféricas
+SONDA ACUNAV 8F INTRACARDIACO IPX8;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQ ALMA ACERO 65 199065;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQ ALMA ACERO 70 199070;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQ ALMA ACERO 75 199075;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQ ALMA ACERO 80 199080;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQ ALMA ACERO 85 199085;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQUEA C/GBO 65 MM 100/199/06;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQUEA C/GBO 70 MM 100/199/07;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQUEA C/GBO 75 MM 100/199/07;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQUEA C/GBO 80 MM 100/199/08;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQUEA C/GBO 85 MM 100/199/08;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQUEA C/GBO. 60 MM 100/199/0;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQUEA C/GBO. 70 MM 100/199/0;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQUEA C/GBO. 75 MM 100/199/0;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQUEA C/GBO. 80 MM 100/199/0;Cuadro Básico || Médicas y Quirúrgicas
+SONDA ENDOTRAQUEA C/GBO. 85 MM 100/199/0;Cuadro Básico || Médicas y Quirúrgicas
+SONDA FOGARTY EMBOLECTOMIA 5 FR. C-1208;Cuadro Básico || Médicas y Quirúrgicas
+SONDA FOLEY 14FR 30CC;Cuadro Básico || Médicas y Quirúrgicas
+SONDA FOLEY 16FR 30CC;Cuadro Básico || Médicas y Quirúrgicas
+SONDA FOLEY 18 FR 5 CC SILASTIC;Cuadro Básico || Médicas y Quirúrgicas
+SONDA FOLEY 2 VIAS 14 FR 5CC 180705140;Cuadro Básico || Médicas y Quirúrgicas
+SONDA FOLEY 2 VIAS 14 FR 5CC 25133;Cuadro Básico || Médicas y Quirúrgicas
+SONDA FOLEY 2 VIAS 16 FR 5CC 180705160;Cuadro Básico || Médicas y Quirúrgicas
+SONDA FOLEY 2 VIAS 18 FR 30CC 180730180;Cuadro Básico || Médicas y Quirúrgicas
+SONDA FOLEY 3VIAS 20FR 30CC;Cuadro Básico || Médicas y Quirúrgicas
+SONDA FOLEY DSILVER 16FR5CC2VIAS6051631C;Cuadro Básico || Médicas y Quirúrgicas
+SONDA FOLEY DSILVER 18FR5CC2VIAS6051891C;Material de Curación || Médicas y Quirúrgicas
+SONDA FOLEY SILASTIC 2V GLB 5 FR 16 0702;Material de Curación || Médicas y Quirúrgicas
+SONDA GASTRO-LEVIN #8 10FR;Cuadro Básico || Médicas y Quirúrgicas
+SONDA HEMATURIA 20 FR 30CC 570620;Cuadro Básico || Médicas y Quirúrgicas
+SONDA LEVIN 14 FR K-12;Cuadro Básico || Médicas y Quirúrgicas
+SONDA LEVIN 16FR K-10;Cuadro Básico || Médicas y Quirúrgicas
+SONDA LEVIN 16FR RADIOPACA TECMED 49904;Cuadro Básico || Médicas y Quirúrgicas
+SONDA LEVIN 18FR K-11;Cuadro Básico || Médicas y Quirúrgicas
+SONDA LEVIN 20 FR K-13;Cuadro Básico || Médicas y Quirúrgicas
+SONDA MONOPOLAR DESECHABLE;Cuadro Básico || Médicas y Quirúrgicas
+SONDA MONOPOLAR DESECHABLE 3602-00-TE;Cuadro Básico || Médicas y Quirúrgicas
+SONDA NELATON ROJA 10 FR 492025;Cuadro Básico || Médicas y Quirúrgicas
+SONDA NELATON ROJA 12 FR 492033;Cuadro Básico || Médicas y Quirúrgicas
+SONDA NELATON ROJA 14 FR 492041;Cuadro Básico || Médicas y Quirúrgicas
+SONDA NELATON ROJA 16 FR 492058;Cuadro Básico || Médicas y Quirúrgicas
+SONDA NELATON ROJA 18 FR 492066;Cuadro Básico || Médicas y Quirúrgicas
+SONDA NELATON ROJA 8 FR 492017;Cuadro Básico || Médicas y Quirúrgicas
+SONDA NELATON TRANSPARENTE 14FR;Cuadro Básico || Médicas y Quirúrgicas
+SONDA NELATON TRANSPARENTE 16FR;Cuadro Básico || Médicas y Quirúrgicas
+SONDA P/ALIMENTACION PEDIATRICA K-31;Cuadro Básico || Médicas y Quirúrgicas
+SONDA P/ALIMENTACION PEDIATRICA K-32;Cuadro Básico || Médicas y Quirúrgicas
+SONDA P/ASPIRACION 8FR;Cuadro Básico || Médicas y Quirúrgicas
+SOPORTE P/LINEA VENOSA PEDIATRICO 29970;Material de Curación || Médicas y Quirúrgicas
+SPASMOPRIV CAP. 200 MG.;Medicamentos || Antiespasmódicos y Anticolinérgicos Solos
+SPIOLTO RESPIMAT SOL P/INH 0.226/0.226MG;Medicamentos || Soluciones Estándar
+SPIRIVA RESPIMAT SOL P/INHA 0.226MG/ML;Medicamentos || Anticolinérgicos Sencillos y sus Combinaciones con Agonistas-B2
+STADIUM AMP 50MG/2ML;Medicamentos || No Narcóticos y Antipiréticos
+STERI DRAPE 82 X 45 1050;Equipo Médico || Quirófano
+STERI STRIP 0.6 X 10 CM R1546;Equipo Médico || Quirófano
+STERIMAR SOL SPRAY NASAL FCO 50ML;Medicamentos || Soluciones Estándar
+STILNOX 10 MG. TBS.;Medicamentos || Hipnóticos-Sedantes
+STOCRIN 600MG COMP;Medicamentos || Antivirales para VIH
+SUBPOBLACIONES LINFOCITARIAS CD3/CD4/CD8;Laboratorio || Estudios Especiales
+SUCRALFATO 1 G. TAB;Medicamentos || Antiulcerosos
+SUJETADOR DE CATETER SONDA FOLEY 3600PFC;Cuadro Básico || Médicas y Quirúrgicas
+SUJETADOR P/ EXTREMIDADE TERAPIA 12475;Cuadro Básico || Médicas y Quirúrgicas
+SUJETADOR SONDA FOLEY ADULTO FOLO100;Cuadro Básico || Médicas y Quirúrgicas
+SUPER TUBOVAC 90 ICW CAT.ASC 4250-01;Material de Curación || Médicas y Quirúrgicas
+SUPRADOL AMP 30MG/ML;Medicamentos || Antiinflamatorios no Esteroideos de Uso Oftálmico
+SUPRADOL AMP 60MG/2 ML;Medicamentos || Antiinflamatorios no Esteroideos de Uso Oftálmico
+SUPRADOL TAB SUBL 30MG;Medicamentos || Antiinflamatorios no Esteroideos de Uso Oftálmico
+SURGICEL FIBRILAR 1961;Material de Curación || Quirúrgicas
+SUTURA FIBERWIRE 2 AR-7200;Material de Curación || Médicas y Quirúrgicas
+SYDOLIL TAB 1/50 MG;Medicamentos || Preparaciones en contra de la Migraña
+SYNALAR SIMPLE CREMA TUB 0.01% 40G;Medicamentos || Corticosteroides Tópicos Solos
+TABLILLA NASAL DOYLE II 15-24055;Equipo Médico || Quirófano
+TACHOSIL ESPONJA 5.5MG/2UI 9.5X4.8CM;Cuadro Básico || Médicas y Quirúrgicas
+TACROLIMUS;Medicamentos || Otros Productos no Esteroides para Tratar Trastornos Inflamatorios de la Piel
+TAFIL TAB 0.25MG;Medicamentos || Tranquilizantes
+TAFIROL TAB 1G;Medicamentos || No Narcóticos y Antipiréticos
+TAMIFLU CAP 75MG;Medicamentos || Antivirales, Excluyendo Productos Anti-VIH
+TAMIZ AUDITIVO;Laboratorio || Análisis clínicos
+TAMIZ METABOLICO NEONATAL AMPLIADO;Laboratorio || Perfiles
+TAPON NASAL MEROCEL 8 CM;Material de Curación || Otorrinolaringología
+TAPON P/SONDA FOLEY DESECHABLE K753;Cuadro Básico || Médicas y Quirúrgicas
+TAPONES P/ SONDA FOLEY 5485-00;Cuadro Básico || Médicas y Quirúrgicas
+TC ABDOMEN SIMPLE;Laboratorio || Análisis clínicos
+TC ABDOMEN SIMPLE Y CONTRASTADA;Laboratorio || Análisis clínicos
+TC ANGIOTOMOGRAFIA DE TORAX;Laboratorio || Análisis clínicos
+TC BIOPSIA DIRIGIDA O DRENAJE;Laboratorio || Análisis clínicos
+TC COLUMNA SIMPLE (COSTO POR REGION);Laboratorio || Radiología
+TC CRANEO SIMPLE;Laboratorio || Perfiles
+TC CRANEO SIMPLE Y CONTRASTADA;Laboratorio || Análisis clínicos
+TC CUELLO SIMPLE Y CONTRASTADA;Laboratorio || Análisis clínicos
+TC MC DE TORAX DE ALTA RESOLUCION;Laboratorio || Perfiles
+TC MC DOS REGIONES;Laboratorio || Perfiles
+TC MC UNA REGION;Laboratorio || Perfiles
+TC TORAX (FASE SIMPLE Y C/CTE );Laboratorio || Perfiles
+TC TORAX SIMPLE;Laboratorio || Análisis clínicos
+TC UROTOMOGRAFIA;Laboratorio || Análisis clínicos
+TC UROTOMOGRAFIA SIMPLE LITIASIS;Laboratorio || Estudios Especiales
+TEGADERM 1624 6 X 7 CM 1624;Material de Curación || Médicas y Quirúrgicas
+TEGADERM 1626 10 X 12 CM 1626;Material de Curación || Médicas y Quirúrgicas
+TEGADERM 9 X 25 CM -PAD CAT.3591;Cuadro Básico || Médicas y Quirúrgicas
+TEGADERM I.V. 8.5 X 10.5 CAT 1635;Cuadro Básico || Médicas y Quirúrgicas
+TEGADERM IV 5X5.7 CM 3M;Material de Curación || Médicas y Quirúrgicas
+TEGADERM PAD 3582 5 X 7;Material de Curación || Médicas y Quirúrgicas
+TEGADERM PAD 3586 9 X 10;Material de Curación || Médicas y Quirúrgicas
+TEGADERM PAD 3590 9 X 20;Material de Curación || Médicas y Quirúrgicas
+TEGADERM PAD. 3584 6X10 CM;Material de Curación || Médicas y Quirúrgicas
+TEGADERM PARCHE 3589 PAD;Material de Curación || Médicas y Quirúrgicas
+TELA ADHESIVA 5 CM;Material de Curación || Médicas y Quirúrgicas
+TELEMETRIA (USO);Equipo Médico || Electrónica médica
+TELEMETRIA ECG CON SATURACION DE OXIGENO;Equipo Médico || Quirófano
+TEMGESIC 0.3MG;Medicamentos || Narcóticos
+TEMGESIC AMP;Medicamentos || Narcóticos
+TEMGESIC AMP 0.30MG/ML;Medicamentos || Narcóticos
+temgesic amp 0.3mg;Medicamentos || Narcóticos
+TEMGESIC TAB SUBL 0.2MG;Medicamentos || Narcóticos
+TEMPRA FCO AMP 1G/100ML IV;Medicamentos || No Narcóticos y Antipiréticos
+TEMPRA FCO AMP 500MG/50ML;Medicamentos || No Narcóticos y Antipiréticos
+TEMPRA JBE FCO 120ML;Medicamentos || No Narcóticos y Antipiréticos
+TEMPRA PED FCO GTS 30ML;Medicamentos || No Narcóticos y Antipiréticos
+TEMPRA TAB 500MG;Medicamentos || No Narcóticos y Antipiréticos
+TENSOPLAST 10 CM 4068;Equipo Médico || Quirófano
+TERAPIA FISICA Y REHABILITACION;Equipo Médico || Medicina física y rehabilitación
+TERAPIA FRIO ICEMAN UNIVERSAL RODILLA;Cuadro Básico || Médicas y Quirúrgicas
+TERBAC FCO AMP 1G/10ML IV;Medicamentos || Cefalosporinas
+TERMOMETRO DE CUARZO LIQUIDO;Cuadro Básico || Médicas y Quirúrgicas
+TERMOMETRO DIGITAL CITIZEN CT-461;Cuadro Básico || Médicas y Quirúrgicas
+TERUMOCATANGP/5/BRACHIA4.0/1/100/RH*TI;Laboratorio || Perfiles
+TIEMPO DE COAGULACION;Laboratorio || Perfiles
+TIEMPO DE PROTROMBINA;Laboratorio || Análisis clínicos
+TIEMPO DE SANGRADO DE IVY;Laboratorio || Perfiles
+TIEMPO DE TROMBINA;Laboratorio || Análisis clínicos
+TIEMPO PARCIAL DE TROMBOPLASTINA;Laboratorio || Análisis clínicos
+TIRA ACCU-CHECK PERFORMA;Equipo Médico || Electrónica médica
+TIRALECHE;Hospitalización || General
+TIRAS OPTIUM POINT OF CARE G3CH;Medicamentos || Preparaciones en contra de la Migraña
+TIVICAY TAB 50 MG;Medicamentos || Antivirales para VIH
+TOALLA OBSTETRICA;Cuadro Básico || Ginecología y Obstetricia
+TOBILLO 2 PROYECCIONES;Laboratorio || Radiología
+TOBLEFAM FCO AMP 1G/10ML;Medicamentos || Cefalosporinas
+TOBRADEX SUSP OFT FCO GOT 5ML;Medicamentos || Combinaciones de Corticoesteroides con Agentes Antiinfecciosos
+TOMCAT 4.0;Material de Curación || Quirúrgicas
+TOOTHETTE PLUS BRUSH SUCTION CAT 6577-X;Material de Curación || Médicas y Quirúrgicas
+TORAX 1 PROYECCION;Laboratorio || Radiología
+TORAX 2 PROYECCIONES;Laboratorio || Radiología
+TORNIQUETE ELECTRICO (USO);Equipo Médico || Quirófano
+TORPEDO AR-8400TD;Equipo Médico || Quirófano
+TORUNDA DE ALCOHOL 25012;Material de Curación || Médicas y Quirúrgicas
+TORUNDA DE ALCOHOL 25012 C/100;Material de Curación || Médicas y Quirúrgicas
+TRADOL 50 MG /1 ML AMP;Medicamentos || Narcóticos
+TRADOL AMP 100MG/2ML;Medicamentos || Narcóticos
+TRADOL CAP 50MG;Medicamentos || Narcóticos
+TRADOL RETARD TAB 100MG;Medicamentos || Narcóticos
+TRAMACET TAB 37.5MG/325MG;Medicamentos || No Narcóticos y Antipiréticos
+TRAMADOL 100MG/2ML AMP;Medicamentos || Narcóticos
+TRANSAMINASA SGOT;Laboratorio || Perfiles
+TRANSAMINASA SGPT;Laboratorio || Perfiles
+TRANSAMINASAS (TGO Y TGP);Laboratorio || Perfiles
+TRANSFERRINA;Laboratorio || Perfiles
+TRANSITO INTESTINAL;Laboratorio || Radiología
+TRANSPORE 2' 1527-2;Material de Curación || Médicas y Quirúrgicas
+TRAYENTA DUO 2.5 MG/ 850 MG TAB C/60;Medicamentos || Inhibidores de la DPP IV
+TRAYENTA DUO 2.5/500MG TAB;Medicamentos || Inhibidores de la DPP IV
+TRAYENTA TAB 5 mg;Medicamentos || Inhibidores de la DPP IV
+TREDA TAB. 129/30 MG.;Medicamentos || Antidiarreicos con Efecto Antiinfeccioso a Nivel Intestinal
+TRIAGE PANEL CARDIACO(CK MB TpnI DD MioB;Laboratorio || Análisis clínicos
+TRIGLICERIDOS LAB;Laboratorio || Análisis clínicos
+TRILEPTAL TAB 300MG;Medicamentos || Antiepilépticos
+TRIMEXAZOL AMP160 MG/800 MG/3ML;Medicamentos || Trimetroprim y Sustancias Similares
+TROPONINA 'T';Laboratorio || Análisis clínicos
+TROPONINA I;Laboratorio || Análisis clínicos
+TRUVADA TAB 300/200 MG;Medicamentos || Antivirales para VIH
+TUBO CONECTOR P/02 1302 MX;Cuadro Básico || Médicas y Quirúrgicas
+TUBO CONECTOR P/OXIGENO K-25;Equipo Médico || Quirófano
+TUBO P/ASPIRACION MD-RX 708120;Equipo Médico || Quirófano
+TYLEX TAB 750MG;Medicamentos || No Narcóticos y Antipiréticos
+U S ABDOMEN COMPLETO;Laboratorio || Ultrasonidos
+U S ABDOMEN SUPERIOR (VES HEPATOVES HEPA;Laboratorio || Ultrasonidos
+U S CUELLO (TIROIDEO);Laboratorio || Perfiles
+U S DE TRACTO URINARIO (RINONES Y VEJIGA;Laboratorio || Ultrasonidos
+U S PELVICO;Laboratorio || Ultrasonidos
+U S PORTATIL;Laboratorio || Ultrasonidos
+U S RENAL;Laboratorio || Ultrasonidos
+U S TESTICULAR;Laboratorio || Perfiles
+U S TRANSFONTANELAR;Laboratorio || Ultrasonidos
+U S TRANSVAGINAL;Laboratorio || Ultrasonidos
+U S UNA REGION;Laboratorio || Ultrasonidos
+ULSEN FCO AMP 40MG/10ML;Medicamentos || Antiulcerosos
+UNAMOL CPR 10MG;Medicamentos || Gastroprocinéticos
+UNAMOL CPR 5MG;Medicamentos || Gastroprocinéticos
+UNAMOL SUSP FCO 1MG/ML 60ML;Medicamentos || Gastroprocinéticos
+UNIDAD ELECTROQUIRURGICA (USO);Equipo Médico || Quirófano
+UNIVAL SUSP 1GR/5ML FCO 230ML;Medicamentos || Antiulcerosos
+UNIVAL TAB 1G;Medicamentos || Antiulcerosos
+UREOTEK BOLSA 2000 ML 4261;Cuadro Básico || Médicas y Quirúrgicas
+URETEROSCOPIO FLEXIBLE (USO);Equipo Médico || Quirófano
+URETEROSCOPIO RIGIDO 7FR (USO);Equipo Médico || Quirófano
+URETEROSCOPIO RIGIDO 9 5 FR (USO);Equipo Médico || Quirófano
+URETEROSCOPIO SEMIRIGIDO;Equipo Médico || Quirófano
+UROCULTIVO;Laboratorio || Análisis clínicos
+UROEOTEK SIT INY CONX LUER LOCK;Cuadro Básico || Médicas y Quirúrgicas
+US FAST (URGENCIAS);Laboratorio || Ultrasonidos
+USO BIPOLAR VISTA;Equipo Médico || Quirófano
+USO DE BOMBA DE INFUSION EN URGENCIAS;Equipo Médico || Mecánica y fluidos
+USO DE CISTOSCOPIO S/VIDEO (CITOSCOPIA D;Equipo Médico || Quirófano
+USO DE CUBICULO CADA HORA ADICIONAL;Hospitalización || General
+USO DE CUBICULO DE OBSERVACION 1 HR;Hospitalización || General
+USO DE CUBICULO DE OBSERVACION 1/2 ADIC;Hospitalización || General
+USO DE CUBICULO DE OBSERVACION HASTA 2 H;Hospitalización || General
+USO DE CUBICULO DE OBSERVACION MAS DE 4;Hospitalización || General
+USO DE ELECTROCAUTERIO MONO-BIPOLAR;Equipo Médico || Quirófano
+USO DE GLUCOMETRO;Cuadro Básico || Médicas y Quirúrgicas
+USO DE MATERIAL DE ASEPSIA Y ANTISEPSIA;Material de Curación || Médicas y Quirúrgicas
+USO DE MATERIAL DE ASEPSIA Y CURACION GO;Material de Curación || Médicas y Quirúrgicas
+USO DE MATERIAL DE ASEPSIA Y CURACION UC;Material de Curación || Médicas y Quirúrgicas
+USO DE OXIGENO APR;Equipo Médico || Quirófano
+USO DE OXIGENO REC;Equipo Médico || Quirófano
+USO DE OXIGENO UTI;Equipo Médico || Quirófano
+USO DE RECOLECTOR DE PUNZO CORTANTES;Cuadro Básico || Médicas y Quirúrgicas
+USO DE ROPA DE ALGODON EN URGENCIAS;Hospitalización || General
+USO DE ROPA QUIRURGICA DE ALGODN;Hospitalización || General
+USO DE ROPA QUIRURGICA DE ALGODON;Hospitalización || General
+USO DE SALA DE CHOQUE;Hospitalización || General
+USO DE TOCOCARDIOGRAFO;Equipo Médico || Electrónica médica
+USO DE TOCOCARDIOGRAFO HORA ADICIONAL;Equipo Médico || Electrónica médica
+VALEXTRA TAB. 500mg;Medicamentos || Antivirales, Excluyendo Productos Anti-VIH
+VALIUM AMP 10MG/2ML;Medicamentos || Tranquilizantes
+VALIUM TAB 10MG;Medicamentos || Tranquilizantes
+VANAURUS FCO AMP 500MG/10ML;Medicamentos || Otros Antibióticos
+VANCOCIN CP FCO AMP 500MG/10ML;Medicamentos || Otros Antibióticos
+VANCOMICINA;Medicamentos || Otros Antibióticos
+VANCOMICINA FCO AMP 500MG;Medicamentos || Otros Antibióticos
+VANNAIR 80/4.5MCG AER. FCO 120;Medicamentos || Combinaciones de Agonistas B-2 con Corticoides
+VDRL;Laboratorio || Análisis clínicos
+VELOCIDAD SEDIMENTACION GLOBULAR;Laboratorio || Análisis clínicos
+VENDA COBAN 10 CM 1584;Material de Curación || Médicas y Quirúrgicas
+VENDA DE COBAN 5 CM 1582;Material de Curación || Médicas y Quirúrgicas
+VENDA ELASTICA 10 CM X 5 MT. 13006;Material de Curación || Médicas y Quirúrgicas
+VENDA ELASTICA 15 CM X 5 MT. 13008;Material de Curación || Médicas y Quirúrgicas
+VENDA ELASTICA 30 CM X 5 MT. 13011;Material de Curación || Médicas y Quirúrgicas
+VENDA ELASTICA 5 CM X 5 MT. 13002;Material de Curación || Médicas y Quirúrgicas
+VENDA ELOSTAMEDIC 10 CM 13304;Material de Curación || Cirugía Cardiotorácica y Cardiovascular
+VENDA ELOSTAMEDIC 15 CM 13305;Material de Curación || Cirugía Cardiotorácica y Cardiovascular
+VENDA FIBRA VIDRIO BCA 12.7X3.65 7345804;Material de Curación || Médicas y Quirúrgicas
+VENDA FIBRA VIDRIO BCA 7.62X3.65 7345802;Material de Curación || Médicas y Quirúrgicas
+VENDA FIBRA VIDRIO BCA10.16X3.65 7345803;Material de Curación || Médicas y Quirúrgicas
+VENDA HUATA 10 CMX5M RGQ010005;Material de Curación || Médicas y Quirúrgicas
+VENDA HUATA 15 CMX5M RGQ015005;Material de Curación || Médicas y Quirúrgicas
+VENDA MALLA RETELAST 3 CM;Material de Curación || Médicas y Quirúrgicas
+VENDA SMARSH GRANDE;Material de Curación || Médicas y Quirúrgicas
+VENDA TENSOPLAST 7.5 CM X 2.7 MTS;Material de Curación || Médicas y Quirúrgicas
+VENDA WRAP 10 CM MW04;Material de Curación || Médicas y Quirúrgicas
+VENTOLIN SOL P/NEB FCO 5MG/ML 10ML;Medicamentos || Soluciones Estándar
+VERAPAMILO 5 MG. AMP;Medicamentos || Calcioantagonistas Solos
+VESICARE TAB 5 MG;Medicamentos || Otras Preparaciones Urológicas
+VFEND 200 MG TAB;Medicamentos || Agentes para Infecciones Fúngicas Sistemicas
+VIBRAMICINA CAP 100MG;Medicamentos || Tetraciclinas y Combinaciones
+VICRYL 1 H CT-1 J341H;Material de Curación || Médicas y Quirúrgicas
+VICRYL 1-0 CT-1 J340H;Material de Curación || Médicas y Quirúrgicas
+VICRYL 1-0 H SH J318H;Material de Curación || Médicas y Quirúrgicas
+VICRYL 1/0 EJ10C ENDOLOOP;Material de Curación || Médicas y Quirúrgicas
+VICRYL 2-0 CT-10 J345H;Material de Curación || Médicas y Quirúrgicas
+VICRYL 2-0 H CT-1 J339H;Material de Curación || Médicas y Quirúrgicas
+VICRYL 2-0 H SH J317H;Material de Curación || Médicas y Quirúrgicas
+VICRYL 2.0 MH J323H;Material de Curación || Médicas y Quirúrgicas
+VICRYL 3-0 H SH J316H;Material de Curación || Médicas y Quirúrgicas
+VICRYL 3.0 MH J322H;Material de Curación || Médicas y Quirúrgicas
+VICRYL 5.0 JP500G;Material de Curación || Médicas y Quirúrgicas
+VICRYL PLUS VLT 1 70 CM 1AGCT VCP341H;Material de Curación || Médicas y Quirúrgicas
+VICRYL PLUS VLT 2-0 70 CM CT-1J339H;Material de Curación || Médicas y Quirúrgicas
+VICRYL PLUS VT 0 67 CM CT-1 XYVCP340H;Material de Curación || Quirúrgicas
+VICRYL PLUS VT 2-0 67 CM SH XYVCP317H;Material de Curación || Médicas y Quirúrgicas
+VICRYL VIOLET 0 70 CM UR-6 J603H;Material de Curación || Médicas y Quirúrgicas
+VICRYL* J376H;Material de Curación || Médicas y Quirúrgicas
+VICRYL*VLT PLUS 3-0 70CM 1-SH XYVCP316H;Material de Curación || Médicas y Quirúrgicas
+VIDEO-ENDOSCOPIO ALTA DEFINICION (USO);Equipo Médico || Quirófano
+VINZA AMP 0.5MG/2.5MG 2.5ML;Medicamentos || Anticolinérgicos Sencillos y sus Combinaciones con Agonistas-B2
+VOLTAREN AMP 75MG/3ML;Medicamentos || Antirreumáticos Tópicos
+VOLTAREN EMULGEL TUB 50 G;Medicamentos || Antirreumáticos Tópicos
+VONTROL AMP 40MG/2ML;Medicamentos || Antieméticos
+XARELTO 2.5 MG COMP;Medicamentos || Otros Agentes Trombóticos
+XARELTO CPR 10MG;Medicamentos || Otros Agentes Trombóticos
+XUZAL FCO GOT 5mg / 10 ml;Medicamentos || Antihistamínicos Sistémicos
+XUZAL TAB 5MG;Medicamentos || Antihistamínicos Sistémicos
+ZINNAT FCO AMP 750MG/3ML;Medicamentos || Cefalosporinas
+ZINNAT TAB 500MG;Medicamentos || Cefalosporinas
+ZOFRAN AMP 4 MG/2 ML;Medicamentos || Antieméticos
+ZOFRAN AMP 8 MG/4ML;Medicamentos || Antieméticos
+ZOFRAN TAB 8MG;Medicamentos || Antieméticos
+ZOVIRAX DISPERSABLE TAB 800 MG;Medicamentos || Antivirales, Excluyendo Productos Anti-VIH
+ZUFTIL AMP 0.100MG/2ML;Medicamentos || Narcóticos
+ZUFTIL AMP 0.250MG/5ML;Medicamentos || Anestésicos Locales
+ZYPREXA TAB 5MG;Medicamentos || Antipsicóticos
+ZYVOXAM MINIBAG 2MG/ML 300ML;Medicamentos || Otros Antibióticos
+ZYVOXAM TAB 600 MG;Medicamentos || Otros Antibióticos
+ACTRON CAP 600MG;Medicamentos || Antirreumáticos no Esteroideos  
+ADULTO OXI SENSOR MAX A 429966;Equipo Médico || Mecánica y fluidos 
+ALIN AMP 8MG / 2ML; Medicamentos || Corticosteroides Sistémicos, Puros
+AZUL PATENTE AMP C/2ML;Medicamentos || Patente
+BOLSA FLEX 3000 ML 65651-930C;Equipo Médico || Quirófano
+CAM HUMIDIFICADORA AUTOLLENADO DESECH;Equipo Médico || Quirófano
+CAPERUZA PROTECTORA 394.970;General || Hospitalización
+CEFALOTINA FCO AMP 1G / 5ML; Medicamentos || Cefalosporinas
+CEPILLO C / GLUCONATO DE CLORHEX 371073;Material de Curación || Médicas y Quirúrgicas
+CIRCUITO UNIVERSAL P / ANESTESIA F-60;Equipo Médico || Quirófano
+CLORURO DE SODIO P / IRRIGACION 1000 ML 29;Medicamentos || Soluciones Estándar
+COMPRESA P/VIENTRE PRELAV 45X70 28X24;General || Hospitalización
+CONECTOR P / CAM HUMIDIFICACION 89200;Equipo Médico || Quirófano
+DICYNONE AMP 250MG / 2ML;Medicamentos || Hemostáticos Sistémicos
+DIPRIVAN AMP. 200 mg / 20 ml.;Medicamentos || Anestésicos Generales
+DRENAJE BLAKE 15FR C/TROCAR CODIGO 2229;Equipo Médico || Mecánica y fluidos
+DURA PREPARACIÓN SOL. 15 ml 8610;Medicamentos || Soluciones Estándar
+DURA PREPARACIÓN SOL. QUIRURGICA 26 ML 8630;Medicamentos || Soluciones Estándar
+ELECTRODO ADULTO P / MONITOREO 2239;Cuadro Básico || Médicas y Quirúrgicas
+ELECTRODO CUCHILLO EXTENDIDO LAR ES04;Cuadro Básico || Médicas y Quirúrgicas
+ODO CUCHILLO EXTENDIDO LAR ES04;Cuadro Básico || Médicas y Quirúrgicas
+EQ. P / VENOP AD C / CLORHERIDINA VCH001-23;Cuadro Básico || Médicas y Quirúrgicas
+EQUIPO DE GAMASONDA (USO);Equipo Médico || Quirófano
+ESMERON FCO AMP 50 MG / 5 ML;Medicamentos || Relajantes Musculares de Acción Periférica
+ESTUDIO TRANSOPERATORIO;Laboratorio || Radiología
+EUTIROX 100 TAB 100MCG;Medicamentos || Preparaciones con Hormonas Tiroideas
+EXPANSOR MAMARIO 400CC TE-F3400;Equipo Médico || Mecánica
+FENODID SOL. INY AMP 0,5 MG / 10 ML; Medicamentos || Soluciones Estándar 
+FLEBOTEK INFUSOMAT C / CLAVE 3920;Cuadro Básico || Médicas y Quirúrgicas
+GAMAGRAMA DE GANGLIO CENTINELA;Laboratorio || Radiología
+GASA C / R EST. 10X10 28X24 C / 10 0133100;Material de Curación || Central de Equipos y Esterilización 
+HESTAR FCO 6G/100ML 500ML;Medicamentos || Coagulantes
+HOJA P / BISTURI 15 371233;Equipo Médico || Quirófano
+INDERALICI TAB 10MG;Medicamentos || Antihipertensivos Solos (No Herbolarios)
+JERINGA DESECHABLE 20 ML. S / A 302562;Cuadro Básico || Médicas y Quirúrgicas
+JERINGA DESECHABLE 5 ML 21X32 302549;Cuadro Básico || Médicas y Quirúrgicas
+JUEGO ROPA DESECHAB. P / MESA DE QUIROFAN;Hospitalización || General
+KETOROLACO SOL. INY AMPERIO. 30MG / 1ML;Medicamentos || Antiinflamatorios no Esteroideos de Uso Oftálmico
+MVI 12 AD FCO AMP 5ML;Medicamentos || Soluciones Estándar
+MAQUINA DE ANESTESIA 5 HORAS (USO);Equipo Médico || Quirófano
+METOCLOPRAMIDA AMP. 10 mg / 2 ml;Medicamentos || Gastroprocinéticos
+MICRO CLAVE C/EXT.MICRO 56CM 2V 4031211;Equipo Médico || Quirófano
+MICROCYN 60 FCO.DE 240ML.;Medicamentos || Antisépticos Quirúigicos
+MONOCRYL 4-0 RB-1 Y304H;Material de Curación || Quirúrgicas 
+MONOCRYL 4.0 Y 426;Material de Curación || Quirúrgicas 
+NATURALAG LUB UNG TUB 3.5G;Material de Curación || Quirúrgicas 
+ONDANSETRON SOL. INY 8MG / 4ML;Medicamentos || Antieméticos
+PISACAINA AL 2% (AMP.) 200 MG / 10 ML;Medicamentos || Otros Productos Óticos
+PLUMA P / CIR -TWIN TIP CIRUJANO PEN-;General || Otros
+PRECEDEX FCO AMP 200MCG/2ML;Medicamentos || Combinaciones de Analgésicos con Antiespasmódicos
+PROBETA DESECHABLE 225 ML 49100;Cuadro Básico || Central de Equipos y Esterilización
+PROLENE 3-0 SH 8832T;Material de Curación || Médicas y Quirúrgicas
+PROLENE C SH 8834T;Material de Curación || Médicas y Quirúrgicas
+PROTECTOR CUTANEO NOSTING BARRIER 28 ML;Material de Curación || Cirugía General
+SEDA NA 2-0 SH K833H;Material de Curación || Médicas y Quirúrgicas
+SEDA PH 2-0 S / A SA85T;Material de Curación || Médicas y Quirúrgicas
+SERVICIO DE ASEPSIA Y CURACION;Material de Curación || Médicas y Quirúrgicas
+SONDA ENDOTRAQUEA C / GBO. 75 MM 100/199/0;Laboratorio || Radiología
+SONDA FOLEY 2 VIAS 12 FR 5 CC 180705120;Cuadro Básico || Médicas y Quirúrgicas
+TEMPRA FCO AMP 1G / 100ML IV;Medicamentos || No Narcóticos y Antipiréticos
+TERMOMETRO DE CUARZO LIQUIDO;Material de Curación || Médicas y Quirúrgicas
+TRAMADOL 100MG / 2ML AMP;Medicamentos || Narcóticos
+TUBO P / ASPIRACION MD-RX 708120;Laboratorio || Radiología
+TUBO PENROSE 1/4' 514604;Material de Curación || Médicas y Quirúrgicas;
+ZOFRAN AMP 4 MG / 2 ML;Medicamentos || Antieméticos 
+ZOFRAN AMP 8 MG / 4ML;Medicamentos || Antieméticos 

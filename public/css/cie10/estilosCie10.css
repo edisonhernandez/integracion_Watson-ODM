@@ -1,0 +1,136 @@
+/*estilos.css*/
+
+
+
+/*body{background-color: green;}*/
+body{
+
+    /*background: url(../../images/fondo3.jpg) no-repeat center center fixed;*/
+    /*background-image: url("../Images/fondo.jpg");*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+}
+
+
+a:link, a:visited{text-decoration: none; }
+a:hover{text-decoration: none; color:black;font-size: 110%;}
+
+a{
+    color:black;
+}
+
+
+#tabla1 td:hover{ color:black;}
+#trTablaSuperior:hover{color:black;}
+#tdDiagnosticos:hover {
+    /*background:#c5c3c3;*/
+    font-weight: bold;
+    font-size: 105%;
+    /*color:white;*/
+}
+
+#tabla2 tr:hover{/*background:#c5c3c3;*/ color:white;}
+
+.myClass{background-color:red;}
+
+.highlight{background-color:yellow}
+
+/********************************/
+
+/*estilos inicio.html*/
+
+.trans {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 12px;/*padding-buttom-b: 0px;*//*margin-top: 10px;*/
+}
+
+.resaltarTexto{
+      color: #F3AA04;
+      background-color: #FFFF96;
+ }
+
+.myClass1{
+    background-color:yellow; /*naranja */
+    color:black;
+    font-size: 20px;
+}
+
+.myClass2{
+    background-color:yellow; /* verde */
+    color:black;
+    font-size: 20px;
+}
+
+.myClass3{
+    background-color:yellow; /* azul */
+    color:black;
+    font-size: 20px;
+}
+
+.navbar {
+    margin-bottom: 0;
+    background-color: #00abad;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 0px;
+    border-radius: 0;
+    font-family: Verdana, sans-serif;
+    text-transform: uppercase;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+#container {
+    overflow: auto;
+}
+
+h4 {
+    font-size: 24px;
+    color: #000000;
+    font-weight: 500;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    text-justify: inter-word;
+}
+
+/* estilo de resultados de las tablas */
+#contenedor1 {
+    display: table;
+    border: 2px ;
+    width: 333px;
+    text-align: left;
+    margin: 0 auto;
+}
+#contenidos1 {
+    display: table-row;
+}
+#resultadosTabla1 {
+    display: table-cell;
+    border: 1px ;
+    vertical-align: middle;
+    padding: 10px;
+    color:#FF8000;
+}
+#resultadosTabla2 {
+    display: table-cell;
+    border: 1px ;
+    vertical-align: middle;
+    padding: 10px;
+    color:#5cb85c;
+}
+#resultadosTabla3 {
+    display: table-cell;
+    border: 1px ;
+    vertical-align: middle;
+    padding: 10px;
+    color:#5bc0de;
+}

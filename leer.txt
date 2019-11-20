@@ -1,0 +1,7 @@
+************** CHCA *********
+es una api que tiene conversaciones en un chat y la vez comanda y diferentes 
+documentos de AXA 
+**********************************
+para levantar servicios 
+1.- Entrar a la carpeta desde CMD
+2.- Comando : npm start ;

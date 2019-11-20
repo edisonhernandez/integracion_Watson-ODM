@@ -1,0 +1,217 @@
+/*
+HTML 5 Template Name: Basic 77
+File: Layout CSS
+Author: OS Templates
+Author URI: http://www.os-templates.com/
+Licence: <a href="http://www.os-templates.com/template-terms">Website Template Licence</a>
+*/
+
+html{overflow-y:scroll;} /* Forces a scrollbar when the viewport is larger than the websites content - CSS3 */
+
+/*body{margin:0; padding:0; font-size:13px; font-family:Georgia, "Times New Roman", Times, serif; color:#979797;*/
+	/*!*background-color:#FFFFFF;*!*/
+	/*}*/
+
+.clear:after{content:"."; display:block; height:0; clear:both; visibility:hidden; line-height:0;}
+.clear{display:block; clear:both;}
+html[xmlns] .clear{display:block;}
+* html .clear{height:1%;}
+
+a{outline:none; text-decoration:none;}
+
+/*code{font-weight:normal; font-style:normal; font-family:Georgia, "Times New Roman", Times, serif;}*/
+
+.fl_left{float:left;}
+.fl_right{float:right;}
+
+/*img{margin:0; padding:0; border:none; line-height:normal; vertical-align:middle;}*/
+/*.imgholder, .imgl, .imgr{padding:4px; border:1px solid #D6D6D6; text-align:center;}*/
+/*.imgl{float:left; margin:0 15px 15px 0; clear:left;}*/
+/*.imgr{float:right; margin:0 0 15px 15px; clear:right;}*/
+
+/*----------------------------------------------HTML 5 Overrides-------------------------------------*/
+
+address, article, aside, figcaption, figure, footer, header, /*nav,*/ section{display:block; margin:0; padding:0;}
+
+q{display:block; padding:0 10px 8px 10px; color:#979797; background-color:#ECECEC; font-style:italic; line-height:normal;}
+q:before{content:'“ '; font-size:26px;}
+q:after{content:' „'; font-size:26px; line-height:0;}
+
+/* ----------------------------------------------Wrapper-------------------------------------*/
+
+div.wrapper{display:block; width:960px; margin:0 auto; padding:0; text-align:left;}
+
+.row h1{color:#979797;}
+.row1, .row1 a{color:#979797; background-color:#FFFFFF;}
+.row2{color:#979797; background-color: rgb(45, 63, 73);}
+/*.row2 a{color:#FF9900;    background-color: rgb(45, 63, 73);}*/
+.row3{border-top:1px solid #DEDEDE;}
+.row3, .row3 a{color:#979797;     background-color: rgb(45, 63, 73);}
+
+/*----------------------------------------------Generalise-------------------------------------*/
+
+/*#header,*/ #container, #footer{display:block; width:960px;}
+
+nav ul{margin:0; padding:0; list-style:none;}
+
+h1, h2, h3, h4, h5, h6{margin:0; padding:0; font-size:16px; font-weight:bold; font-style:normal; line-height:normal; /*text-transform:uppercase;*/}
+
+address{font-style:normal;}
+
+blockquote, q{display:block; padding:8px 10px; color:#979797; background-color:#ECECEC; font-style:italic; line-height:normal;}
+blockquote:before, q:before{content:'“ '; font-size:26px;}
+blockquote:after, q:after{content:' „'; font-size:26px; line-height:0;}
+
+.one_third, .two_third, .three_third{display:block; float:left; margin:0 30px 0 0;}
+.one_third{width:300px;}
+.two_third{width:630px;}
+.three_third{width:960px; float:none; margin-right:0; clear:both;}
+.lastbox{margin-right:0;}
+
+/*----------------------------------------------Header-------------------------------------*/
+
+#header{}
+
+/*#header #hgroup{padding:20px 0 0 0; float:left;}*/
+/*#header #hgroup h1, #header #hgroup h2{font-weight:normal; text-transform:none;}*/
+/*#header #hgroup h1{font-size:36px;}*/
+/*#header #hgroup h2{font-size:13px;}*/
+
+#header nav{display:block; float:right; /*margin:20px 0 0 0;*/ padding:20px 10px; border-top:1px solid #DEDEDE; border-bottom:1px solid #DEDEDE;}
+/*#header nav ul{}*/
+/*#header nav li{display:inline; margin-right:25px; text-transform:uppercase;}*/
+/*#header nav li.last{margin-right:0;}*/
+/*#header nav li a{}*/
+/*#header nav li a:hover{color:#FF9900; background-color:#FFFFFF;}*/
+
+/*----------------------------------------------Content Area-------------------------------------*/
+
+#container{padding:30px 0;}
+#container section{display:block; width:100%; margin:0 0 30px 0; padding:0;}
+#container .last{margin:0;}
+#container .more{text-align:right; text-transform:uppercase; font-size:smaller; font-weight:bold;}
+
+/* ------Slider-----*/
+
+#container #slider{}
+#container #slider a{display:block; padding:9px; border:1px solid #DEDEDE;}
+#container #slider a:hover{border-color:#FF9900;}
+
+/* ------Homepage-----*/
+
+#container #homepage{line-height:1.6em;}
+#container #homepage article{}
+#container #homepage article h2{font-size:14px; margin-bottom:15px; padding-bottom:8px; border-bottom:1px solid #DEDEDE;}
+#container #homepage article p{margin:0; padding:0;}
+#container #homepage article img{float:left; width:80px; height:80px; margin:0 10px 10px 0; padding:4px; border:1px solid #DEDEDE;}
+#container #homepage article footer{margin:10px 0 0 0;}
+
+#portapdf {
+    /*width: 300px;*/
+	width: 100%;
+    height: 300px;
+    border: 1px solid #484848;
+    /*margin: 0 auto;*/
+}
+
+
+.social {
+	position: fixed; /* Hacemos que la posición en pantalla sea fija para que siempre se muestre en pantalla*/
+	left: 0; /* Establecemos la barra en la izquierda */
+	top: 200px; /* Bajamos la barra 200px de arriba a abajo */
+	z-index: 2000; /* Utilizamos la propiedad z-index para que no se superponga algún otro elemento como sliders, galerías, etc */
+}
+
+	.social ul {
+		list-style: none;
+	}
+
+	.social ul li a {
+		display: inline-block;
+		color:#fff;
+		background: #000;
+		padding: 10px 15px;
+		text-decoration: none;
+		-webkit-transition:all 500ms ease;
+		-o-transition:all 500ms ease;
+		transition:all 500ms ease; /* Establecemos una transición a todas las propiedades */
+	}
+
+
+	.social ul li .icon-arrow-left {background: #00abad;}
+
+	.social ul li a:hover {
+		background: #000; /* Cambiamos el fondo cuando el usuario pase el mouse */
+		padding: 10px 30px; /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
+	}
+	.social {
+	position: fixed; /* Hacemos que la posición en pantalla sea fija para que siempre se muestre en pantalla*/
+	left: -35px; /* Establecemos la barra en la izquierda */
+	top: 300px; /* Bajamos la barra 200px de arriba a abajo */
+	z-index: 2000; /* Utilizamos la propiedad z-index para que no se superponga algún otro elemento como sliders, galerías, etc */
+}
+ 
+	.social ul {
+		list-style: none;
+	}
+ 
+	.social ul li a {
+		display: inline-block;
+		color:#fff;
+		background: #000;
+		padding: 10px 15px;
+		text-decoration: none;
+		-webkit-transition:all 500ms ease;
+		-o-transition:all 500ms ease;
+		transition:all 500ms ease; /* Establecemos una transición a todas las propiedades */
+	}
+ 
+	
+ 
+	.social ul li a:hover {
+		background: #000; /* Cambiamos el fondo cuando el usuario pase el mouse */
+		padding: 10px 30px; /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
+	}
+	.dropbtn {
+    background-color: #00abad;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #000000;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #00abad;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #00abad}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}

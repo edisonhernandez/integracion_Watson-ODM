@@ -1,0 +1,300 @@
+.body { font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue","HelvLightIBM",Arial,sans-serif;
+    
+}
+/* WebKit browsers */
+.body ::-webkit-input-placeholder { font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue","HelvLightIBM",Arial,sans-serif;
+
+}
+/* Mozilla Firefox 4 to 18 */
+.body :-moz-placeholder {  font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue","HelvLightIBM",Arial,sans-serif;
+
+}
+/* Mozilla Firefox 19+ */
+.body ::-moz-placeholder { font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue","HelvLightIBM",Arial,sans-serif;
+
+}
+/* Internet Explorer 10+ */
+.body :-ms-input-placeholder { font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue","HelvLightIBM",Arial,sans-serif;
+
+}
+
+
+
+
+.h1Sistema{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #979797;
+    text-align: center;
+}
+
+
+#salir{
+    color:white;
+    text-align: right;
+}
+
+#salir:hover{
+    text-decoration: none;
+}
+
+
+.mensajes{
+    padding-right: 0px;
+    border-radius: 0px;
+}
+#sucOrErrMesgDiv{
+    height: 30px;
+    padding-top: 5px;
+    border-radius: 0px;
+}
+button .close{
+    right: 0px;
+}
+
+#btnWatson{
+    background-color: #339fc7;
+}
+
+
+
+
+
+#imageFile{
+    border-radius: 0px;
+    background-color: rgba(255, 255, 255, 0.0);
+    border: none;
+    color: #979797;
+    font-size: 16px;
+    padding-left:0px ;
+}
+
+
+#resultados{
+    height: 60vh;
+    /*overflow-y: scroll;*/
+    /*overflow-y:auto; */
+    text-align: left;
+    vertical-align: bottom;
+    float: right;
+    overflow: hidden;
+    /*padding: 0px;*/
+}
+
+#resultadosNDA{
+    height: 60vh;
+    /*overflow-y: scroll;*/
+    /*overflow-y:auto; */
+    text-align: left;
+    vertical-align: bottom;
+    float: right;
+    overflow: hidden;
+    /*padding: 0px;*/
+}
+
+#contentAnalisis{
+    display: block;
+}
+
+#botones{
+    display: block;
+    margin-bottom: 1em;
+    margin-top:2em;
+}
+#botones button{
+    border-radius: 0px;
+    display: inline-block;
+}
+
+#txtAreaParsedResult{
+    border: 1px solid #ccc;
+    background-color: white;
+    height: 60vh;
+    overflow-y: scroll;
+    padding:10px;
+    text-align: justify;
+    text-justify:inter-word;"
+
+}
+
+#txtAreaParsedResultNDA{
+    border: 1px solid #ccc;
+    background-color: white;
+    height: 60vh;
+    overflow-y: scroll;
+    padding:10px;
+    text-align: justify;
+    text-justify:inter-word;"
+
+}
+
+.alert, .progress{
+    margin-bottom: 0px;
+    border-radius: 0px;
+}
+
+
+.resaltarTexto{
+    color: #F3AA04;
+    background-color: #FFFF96;
+}
+
+.myClass{
+    background-color:yellow;
+    color:black;
+    font-size: 20px;
+}
+
+.myClassNDA{
+    background-color:yellow;
+    color:black;
+    font-size: 20px;
+}
+
+.navbar {
+    margin-bottom: 0;
+    background-color: #00abad;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 0px;
+    border-radius: 0;
+    font-family: Verdana, sans-serif;
+    text-transform: uppercase;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+#container {
+    overflow: auto;
+}
+
+h4 {
+    font-size: 24px;
+    color: #000000;
+    font-weight: 500;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    text-justify: inter-word;
+}
+
+#logout:hover{
+    color: #979797;
+}
+
+
+
+@media screen and (max-width: 992px) {
+    #h1Sistema{
+        font-size: 30px;
+    }
+    #resultados{
+        margin-top: 2em;
+        padding: 0px;
+    }
+    /*#txtAreaParsedResult{*/
+        /*margin-right: 0 ;*/
+    /*}*/
+
+
+}
+
+@media screen and (max-width: 768px) {
+    #h1Sistema{
+        font-size: 26px;
+    }
+    #resultados{
+        margin-top: 2em;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #h1Sistema{
+        font-size: 22px;
+    }
+    #resultados{
+        margin-top: 2em;
+    }
+    #logout{
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    #h1Sistema{
+        font-size: 19px;
+    }
+
+    #resultados{
+        margin-top: 2em;
+    }
+    #imageFile{
+        font-size: 11px;
+    }
+    #logout{
+        font-size: 14px;
+    }
+}
+
+
+
+
+.social {
+    position: fixed; /* Hacemos que la posición en pantalla sea fija para que siempre se muestre en pantalla*/
+    left: 0; /* Establecemos la barra en la izquierda */
+    top: 200px; /* Bajamos la barra 200px de arriba a abajo */
+    z-index: 2000; /* Utilizamos la propiedad z-index para que no se superponga algún otro elemento como sliders, galerías, etc */
+}
+
+.social ul {
+    list-style: none;
+}
+
+.social ul li a {
+    display: inline-block;
+    color:#fff;
+    background: #000;
+    padding: 10px 15px;
+    text-decoration: none;
+    -webkit-transition:all 500ms ease;
+    -o-transition:all 500ms ease;
+    transition:all 500ms ease; /* Establecemos una transición a todas las propiedades */
+}
+
+
+.social ul li .icon-arrow-left {background: #00abad;}
+
+.social ul li a:hover {
+    background: #000; /* Cambiamos el fondo cuando el usuario pase el mouse */
+    padding: 10px 30px; /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
+}
+.social {
+    position: fixed; /* Hacemos que la posición en pantalla sea fija para que siempre se muestre en pantalla*/
+    left: -35px; /* Establecemos la barra en la izquierda */
+    top: 300px; /* Bajamos la barra 200px de arriba a abajo */
+    z-index: 2000; /* Utilizamos la propiedad z-index para que no se superponga algún otro elemento como sliders, galerías, etc */
+}
+
+.social ul {
+    list-style: none;
+}
+
+.social ul li a {
+    display: inline-block;
+    color:#fff;
+    background: #000;
+    padding: 10px 15px;
+    text-decoration: none;
+    -webkit-transition:all 500ms ease;
+    -o-transition:all 500ms ease;
+    transition:all 500ms ease; /* Establecemos una transición a todas las propiedades */
+}
+
+
+
+.social ul li a:hover {
+    background: #000; /* Cambiamos el fondo cuando el usuario pase el mouse */
+    padding: 10px 30px; /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
+}
