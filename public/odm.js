@@ -2,7 +2,7 @@
 function odm_consulta(texto,arrayPath,arraywatson,arraycategory,arraryunidadmedidad,contEdi,broker_Pts){
 
 
-
+ 
    // console.log(arraywatson)
    // console.log(tasa)
    // console.log(regla)
