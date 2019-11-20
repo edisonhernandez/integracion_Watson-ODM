@@ -1,6 +1,6 @@
 
 
-
+ 
 
 function odm_consulta_broker(texto,arrayPath,arraywatsonBroker,arraycategory,arraryunidadmedidad,arrayWS,broker_PtaSo){
 
