@@ -1,4 +1,4 @@
-
+ 
 function Wex_broker(text,broker_Pt,arrayWS,array_EquipoElectronico){
 
     if(broker_Pt=="ASERTEC"){
