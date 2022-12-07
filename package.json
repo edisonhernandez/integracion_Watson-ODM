@@ -9,14 +9,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "body-parser": "^1.15.0",
+    "body-parser": "^1.20.1",
     "cfenv": "^1.0.4",
     "config": "^1.20.4",
     "connect-ensure-login": "^0.1.1",
     "cookie-parser": "^1.4.3",
     "cors": "^2.8.1",
     "ejs": "^2.5.6",
-    "express": "^4.13.4",
+    "express": "^4.18.2",
     "express-session": "^1.15.3",
     "frameguard": "^3.0.0",
     "helmet": "^3.5.0",
